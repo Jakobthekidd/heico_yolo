@@ -59,7 +59,7 @@ def parse_args():
     parser.add_argument('--config', type=str, default='config/paths/cluster.yaml', help='Path to general config')
     parser.add_argument('--dataset_config', type=str, default='config/dataset/heico_end.yaml', help='Path to data YAML')
     parser.add_argument('--model', type=str, default='yolo11l.pt', help='Base model to start training from')
-    parser.add_argument('--epochs', type=int, default=10)
+    parser.add_argument('--epochs', type=int, default=100)
     parser.add_argument('--batch_size', type=int, default=16)
     parser.add_argument('--img_size', type=int, default=640)
     parser.add_argument('--lr', type=float, default=0.0001)
