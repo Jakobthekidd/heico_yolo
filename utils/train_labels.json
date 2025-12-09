@@ -1,0 +1,10721 @@
+{
+  "Sigma_9_clip_0563_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        384.4,
+        264.5,
+        538.6,
+        529.0
+      ],
+      "timepoint": "00:46:58"
+    }
+  ],
+  "Sigma_7_clip_1912_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        743.835,
+        472.8,
+        82.53,
+        128.6
+      ],
+      "timepoint": "02:39:23"
+    }
+  ],
+  "Sigma_10_clip_0381_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        231.65499999999997,
+        495.96,
+        75.97,
+        47.86
+      ],
+      "timepoint": "00:31:49"
+    }
+  ],
+  "Prokto_3_clip_0431_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        320.97,
+        106.85,
+        539.82,
+        213.7
+      ],
+      "timepoint": "00:35:55"
+    }
+  ],
+  "Rektum_1_clip_3309_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        276.5,
+        375.54999999999995,
+        265.2,
+        325.9
+      ],
+      "timepoint": "04:35:45"
+    }
+  ],
+  "Rektum_2_clip_0887_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        420.05,
+        401.25,
+        280.1,
+        271.7
+      ],
+      "timepoint": "01:13:55"
+    }
+  ],
+  "Rektum_6_clip_0449_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        444.51500000000004,
+        437.79,
+        8.57,
+        49.38
+      ],
+      "timepoint": "00:37:27"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        452.425,
+        431.8,
+        6.89,
+        52.0
+      ],
+      "timepoint": "00:37:27"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        549.77,
+        432.47,
+        48.32,
+        30.2
+      ],
+      "timepoint": "00:37:27"
+    }
+  ],
+  "Rektum_8_clip_0864_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        68.815,
+        434.84000000000003,
+        137.63,
+        133.74
+      ],
+      "timepoint": "01:12:01"
+    }
+  ],
+  "Rektum_1_clip_3168_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        257.99,
+        379.03499999999997,
+        129.98,
+        318.31
+      ],
+      "timepoint": "04:24:00"
+    }
+  ],
+  "Sigma_5_clip_0576_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        266.115,
+        175.20000000000002,
+        415.75,
+        324.6
+      ],
+      "timepoint": "00:48:03"
+    }
+  ],
+  "Rektum_3_clip_0907_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        655.645,
+        233.87,
+        333.19,
+        224.44
+      ],
+      "timepoint": "01:15:36"
+    }
+  ],
+  "Prokto_3_clip_0463_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        869.23,
+        467.15999999999997,
+        167.96,
+        136.8
+      ],
+      "timepoint": "00:38:36"
+    }
+  ],
+  "Prokto_3_clip_2180_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        716.58,
+        413.115,
+        486.84,
+        247.97
+      ],
+      "timepoint": "03:01:42"
+    }
+  ],
+  "Sigma_9_clip_3155_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        447.145,
+        36.35,
+        152.89,
+        56.1
+      ],
+      "timepoint": "04:22:56"
+    }
+  ],
+  "Sigma_9_clip_0952_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        540.4,
+        516.3,
+        132.8,
+        41.6
+      ],
+      "timepoint": "01:19:23"
+    }
+  ],
+  "Rektum_8_clip_0830_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        412.91999999999996,
+        248.205,
+        650.56,
+        389.55
+      ],
+      "timepoint": "01:09:10"
+    }
+  ],
+  "Rektum_3_clip_1721_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        605.805,
+        409.785,
+        241.19,
+        226.97
+      ],
+      "timepoint": "02:23:28"
+    }
+  ],
+  "Sigma_5_clip_0566_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        348.9,
+        405.02,
+        521.04,
+        266.96
+      ],
+      "timepoint": "00:47:11"
+    }
+  ],
+  "Rektum_9_clip_2741_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        509.815,
+        182.88,
+        172.03,
+        365.76
+      ],
+      "timepoint": "03:48:28"
+    }
+  ],
+  "Prokto_6_clip_1519_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        763.02,
+        149.26500000000001,
+        321.56,
+        178.27
+      ],
+      "timepoint": "02:06:37"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        194.89999999999998,
+        218.65,
+        257.34,
+        386.98
+      ],
+      "timepoint": "02:06:37"
+    }
+  ],
+  "Sigma_8_clip_1578_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        348.28999999999996,
+        99.205,
+        199.8,
+        140.79
+      ],
+      "timepoint": "02:11:33"
+    }
+  ],
+  "Sigma_5_clip_0352_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        720.55,
+        396.05,
+        331.3,
+        282.5
+      ],
+      "timepoint": "00:29:20"
+    }
+  ],
+  "Rektum_3_clip_1749_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        498.395,
+        316.045,
+        392.61,
+        447.91
+      ],
+      "timepoint": "02:25:47"
+    }
+  ],
+  "Prokto_3_clip_1908_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        839.56,
+        271.07,
+        155.26,
+        112.7
+      ],
+      "timepoint": "02:39:02"
+    }
+  ],
+  "Rektum_6_clip_3207_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        328.495,
+        196.47,
+        325.19,
+        281.9
+      ],
+      "timepoint": "04:27:15"
+    }
+  ],
+  "Sigma_5_clip_0573_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        237.84499999999997,
+        322.185,
+        361.09,
+        302.63
+      ],
+      "timepoint": "00:47:45"
+    }
+  ],
+  "Rektum_8_clip_0417_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        509.805,
+        344.345,
+        199.13,
+        108.81
+      ],
+      "timepoint": "00:34:46"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        568.785,
+        173.52,
+        235.89,
+        97.76
+      ],
+      "timepoint": "00:34:46"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        479.345,
+        382.43,
+        211.09,
+        133.84
+      ],
+      "timepoint": "00:34:46"
+    }
+  ],
+  "Rektum_4_clip_1777_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        430.45,
+        345.495,
+        110.88,
+        382.81
+      ],
+      "timepoint": "02:28:07"
+    }
+  ],
+  "Rektum_9_clip_2302_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        457.08500000000004,
+        287.15,
+        510.23,
+        500.3
+      ],
+      "timepoint": "03:11:53"
+    }
+  ],
+  "Prokto_4_clip_0026_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        441.29999999999995,
+        366.295,
+        98.94,
+        79.15
+      ],
+      "timepoint": "00:02:14"
+    }
+  ],
+  "Sigma_9_clip_3156_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        398.61,
+        193.81,
+        160.84,
+        97.98
+      ],
+      "timepoint": "04:23:02"
+    }
+  ],
+  "Prokto_8_clip_1858_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        435.235,
+        390.71000000000004,
+        213.21,
+        295.18
+      ],
+      "timepoint": "02:34:54"
+    }
+  ],
+  "Prokto_5_clip_1293_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        737.1600000000001,
+        242.055,
+        54.38,
+        31.17
+      ],
+      "timepoint": "01:47:48"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        528.31,
+        346.16999999999996,
+        488.46,
+        380.26
+      ],
+      "timepoint": "01:47:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        749.28,
+        292.855,
+        53.22,
+        15.01
+      ],
+      "timepoint": "01:47:48"
+    }
+  ],
+  "Prokto_3_clip_1894_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        682.5649999999999,
+        265.1,
+        500.59,
+        498.6
+      ],
+      "timepoint": "02:37:52"
+    }
+  ],
+  "Sigma_3_clip_1339_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        488.025,
+        231.57,
+        48.25,
+        24.38
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        473.2,
+        270.33000000000004,
+        46.4,
+        19.58
+      ],
+      "timepoint": "01:51:35"
+    }
+  ],
+  "Rektum_6_clip_3205_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        371.645,
+        193.48999999999998,
+        380.57,
+        307.9
+      ],
+      "timepoint": "04:27:08"
+    }
+  ],
+  "Rektum_7_clip_2072_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        317.625,
+        344.66999999999996,
+        370.83,
+        388.06
+      ],
+      "timepoint": "02:52:40"
+    }
+  ],
+  "Sigma_5_clip_1200_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        355.1,
+        305.31,
+        202.0,
+        391.58
+      ],
+      "timepoint": "01:40:00"
+    }
+  ],
+  "Rektum_2_clip_2723_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        432.175,
+        328.725,
+        412.79,
+        420.15
+      ],
+      "timepoint": "03:46:57"
+    }
+  ],
+  "Rektum_5_clip_2206_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        437.82,
+        324.75,
+        62.78,
+        90.1
+      ],
+      "timepoint": "03:03:52"
+    }
+  ],
+  "Prokto_7_clip_1705_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        265.90000000000003,
+        447.46000000000004,
+        33.58,
+        36.98
+      ],
+      "timepoint": "02:22:08"
+    },
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        403.9,
+        131.03,
+        86.4,
+        57.54
+      ],
+      "timepoint": "02:22:08"
+    }
+  ],
+  "Prokto_7_clip_0642_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        559.535,
+        430.09999999999997,
+        96.03,
+        35.68
+      ],
+      "timepoint": "00:53:30"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        553.245,
+        341.365,
+        106.43,
+        68.15
+      ],
+      "timepoint": "00:53:30"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        554.94,
+        447.70000000000005,
+        89.52,
+        35.2
+      ],
+      "timepoint": "00:53:30"
+    }
+  ],
+  "Prokto_9_clip_2350_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        595.45,
+        242.91500000000002,
+        374.56,
+        83.73
+      ],
+      "timepoint": "03:15:52"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        353.45,
+        411.20000000000005,
+        201.7,
+        220.2
+      ],
+      "timepoint": "03:15:52"
+    }
+  ],
+  "Prokto_6_clip_1492_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        469.03000000000003,
+        153.64000000000001,
+        135.98,
+        88.42
+      ],
+      "timepoint": "02:04:23"
+    }
+  ],
+  "Prokto_7_clip_1903_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        669.63,
+        319.07,
+        164.78,
+        224.66
+      ],
+      "timepoint": "02:38:37"
+    }
+  ],
+  "Prokto_5_clip_0063_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        372.045,
+        299.995,
+        17.65,
+        51.85
+      ],
+      "timepoint": "00:05:17"
+    }
+  ],
+  "Prokto_6_clip_1467_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        595.12,
+        273.99,
+        673.16,
+        279.02
+      ],
+      "timepoint": "02:02:16"
+    }
+  ],
+  "Rektum_7_clip_2958_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        426.2,
+        420.84999999999997,
+        29.0,
+        59.3
+      ],
+      "timepoint": "04:06:31"
+    }
+  ],
+  "Prokto_5_clip_0055_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        428.26000000000005,
+        262.29,
+        71.58,
+        20.84
+      ],
+      "timepoint": "00:04:38"
+    }
+  ],
+  "Sigma_1_clip_0068_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        410.24,
+        42.269999999999996,
+        12.08,
+        27.78
+      ],
+      "timepoint": "00:05:40"
+    }
+  ],
+  "Rektum_10_clip_0495_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        244.55,
+        195.6,
+        59.3,
+        36.8
+      ],
+      "timepoint": "00:41:16"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        228.25,
+        236.1,
+        82.9,
+        28.0
+      ],
+      "timepoint": "00:41:16"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        232.615,
+        214.985,
+        79.37,
+        38.23
+      ],
+      "timepoint": "00:41:16"
+    }
+  ],
+  "Rektum_3_clip_1176_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        596.0799999999999,
+        254.79000000000002,
+        421.5,
+        325.18
+      ],
+      "timepoint": "01:38:04"
+    }
+  ],
+  "Prokto_7_clip_1693_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        626.9499999999999,
+        334.58,
+        141.3,
+        102.24
+      ],
+      "timepoint": "02:21:09"
+    }
+  ],
+  "Rektum_9_clip_0933_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        543.25,
+        373.15,
+        504.7,
+        328.9
+      ],
+      "timepoint": "01:17:47"
+    }
+  ],
+  "Sigma_5_clip_0502_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        286.005,
+        262.3,
+        456.81,
+        383.2
+      ],
+      "timepoint": "00:41:53"
+    }
+  ],
+  "Rektum_2_clip_2717_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        416.78499999999997,
+        349.905,
+        283.41,
+        380.19
+      ],
+      "timepoint": "03:46:26"
+    }
+  ],
+  "Prokto_5_clip_0375_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        612.55,
+        382.9,
+        313.5,
+        308.4
+      ],
+      "timepoint": "00:31:19"
+    }
+  ],
+  "Prokto_4_clip_0065_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        510.865,
+        94.1,
+        75.33,
+        93.86
+      ],
+      "timepoint": "00:05:28"
+    }
+  ],
+  "Rektum_2_clip_2598_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        378.6,
+        166.91,
+        370.8,
+        136.78
+      ],
+      "timepoint": "03:36:30"
+    }
+  ],
+  "Sigma_8_clip_1533_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        581.1,
+        179.56,
+        262.92,
+        113.0
+      ],
+      "timepoint": "02:07:46"
+    }
+  ],
+  "Rektum_5_clip_2285_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        261.145,
+        446.4,
+        153.19,
+        174.7
+      ],
+      "timepoint": "03:10:27"
+    }
+  ],
+  "Rektum_2_clip_2599_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        441.29499999999996,
+        195.29,
+        358.93,
+        314.62
+      ],
+      "timepoint": "03:36:35"
+    }
+  ],
+  "Rektum_3_clip_1709_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        383.21,
+        324.93,
+        215.64,
+        188.84
+      ],
+      "timepoint": "02:22:29"
+    }
+  ],
+  "Sigma_5_clip_0323_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        277.135,
+        324.35499999999996,
+        94.29,
+        48.41
+      ],
+      "timepoint": "00:26:56"
+    }
+  ],
+  "Rektum_2_clip_2723_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        451.73,
+        327.95,
+        416.94,
+        419.82
+      ],
+      "timepoint": "03:46:58"
+    }
+  ],
+  "Rektum_1_clip_0673_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        270.725,
+        291.43,
+        72.35,
+        78.94
+      ],
+      "timepoint": "00:56:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        310.97,
+        272.6,
+        49.46,
+        44.6
+      ],
+      "timepoint": "00:56:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        378.185,
+        194.56,
+        94.67,
+        82.16
+      ],
+      "timepoint": "00:56:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        270.46000000000004,
+        262.025,
+        100.12,
+        106.09
+      ],
+      "timepoint": "00:56:05"
+    }
+  ],
+  "Sigma_8_clip_1561_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        485.02,
+        43.08,
+        66.48,
+        86.16
+      ],
+      "timepoint": "02:10:07"
+    }
+  ],
+  "Prokto_6_clip_1616_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        544.035,
+        458.75,
+        242.21,
+        162.5
+      ],
+      "timepoint": "02:14:44"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        186.66500000000002,
+        296.07,
+        144.31,
+        96.54
+      ],
+      "timepoint": "02:14:44"
+    }
+  ],
+  "Rektum_4_clip_0193_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        358.38,
+        74.6,
+        115.06,
+        115.02
+      ],
+      "timepoint": "00:16:07"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        324.235,
+        81.9,
+        89.87,
+        74.4
+      ],
+      "timepoint": "00:16:07"
+    }
+  ],
+  "Rektum_8_clip_0562_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        525.89,
+        494.16999999999996,
+        99.98,
+        67.54
+      ],
+      "timepoint": "00:46:52"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        544.285,
+        491.21500000000003,
+        102.85,
+        46.69
+      ],
+      "timepoint": "00:46:52"
+    }
+  ],
+  "Sigma_8_clip_1527_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        492.53499999999997,
+        264.805,
+        53.69,
+        164.01
+      ],
+      "timepoint": "02:07:15"
+    }
+  ],
+  "Prokto_3_clip_0602_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        262.03499999999997,
+        229.05,
+        339.53,
+        458.1
+      ],
+      "timepoint": "00:50:12"
+    }
+  ],
+  "Prokto_6_clip_0704_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        528.8,
+        327.9,
+        196.6,
+        241.2
+      ],
+      "timepoint": "00:58:41"
+    }
+  ],
+  "Prokto_7_clip_1955_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        601.165,
+        194.59,
+        374.13,
+        210.36
+      ],
+      "timepoint": "02:42:56"
+    }
+  ],
+  "Prokto_4_clip_1654_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        486.355,
+        212.625,
+        83.43,
+        123.05
+      ],
+      "timepoint": "02:17:51"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        588.115,
+        248.97,
+        21.17,
+        99.06
+      ],
+      "timepoint": "02:17:51"
+    }
+  ],
+  "Rektum_8_clip_0128_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        387.15,
+        300.61,
+        48.9,
+        33.98
+      ],
+      "timepoint": "00:10:41"
+    }
+  ],
+  "Prokto_7_clip_1932_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        662.59,
+        387.58000000000004,
+        199.26,
+        89.96
+      ],
+      "timepoint": "02:41:01"
+    }
+  ],
+  "Rektum_1_clip_1221_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        496.17,
+        245.54,
+        131.46,
+        189.88
+      ],
+      "timepoint": "01:41:48"
+    }
+  ],
+  "Sigma_5_clip_1249_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        383.76000000000005,
+        202.005,
+        124.08,
+        76.07
+      ],
+      "timepoint": "01:44:09"
+    }
+  ],
+  "Prokto_7_clip_1961_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        624.3,
+        219.17000000000002,
+        358.2,
+        260.48
+      ],
+      "timepoint": "02:43:25"
+    }
+  ],
+  "Rektum_7_clip_2998_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        468.28499999999997,
+        228.53500000000003,
+        433.05,
+        308.47
+      ],
+      "timepoint": "04:09:51"
+    }
+  ],
+  "Prokto_4_clip_0035_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        517.6,
+        339.99,
+        89.42,
+        79.44
+      ],
+      "timepoint": "00:02:59"
+    }
+  ],
+  "Prokto_7_clip_0784_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        591.47,
+        293.21,
+        28.54,
+        22.68
+      ],
+      "timepoint": "01:05:23"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        316.505,
+        225.57,
+        13.79,
+        20.88
+      ],
+      "timepoint": "01:05:23"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        541.715,
+        456.35,
+        236.83,
+        162.3
+      ],
+      "timepoint": "01:05:23"
+    }
+  ],
+  "Rektum_8_clip_0840_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        230.63,
+        154.82999999999998,
+        346.02,
+        187.66
+      ],
+      "timepoint": "01:10:02"
+    }
+  ],
+  "Prokto_3_clip_0603_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        732.11,
+        412.23,
+        455.78,
+        250.48
+      ],
+      "timepoint": "00:50:19"
+    }
+  ],
+  "Rektum_1_clip_1624_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        445.9,
+        322.2,
+        417.8,
+        429.2
+      ],
+      "timepoint": "02:15:24"
+    }
+  ],
+  "Rektum_4_clip_0275_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        361.5,
+        354.95,
+        419.2,
+        364.5
+      ],
+      "timepoint": "00:22:55"
+    }
+  ],
+  "Rektum_4_clip_0475_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        522.39,
+        306.79,
+        37.18,
+        73.38
+      ],
+      "timepoint": "00:39:38"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        496.76,
+        311.25,
+        42.36,
+        83.3
+      ],
+      "timepoint": "00:39:38"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        258.68,
+        85.52499999999999,
+        92.0,
+        31.01
+      ],
+      "timepoint": "00:39:38"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        343.585,
+        146.19,
+        31.01,
+        32.64
+      ],
+      "timepoint": "00:39:38"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        578.745,
+        331.565,
+        56.61,
+        88.15
+      ],
+      "timepoint": "00:39:38"
+    }
+  ],
+  "Prokto_4_clip_2071_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        668.81,
+        367.23,
+        291.0,
+        344.14
+      ],
+      "timepoint": "02:52:36"
+    }
+  ],
+  "Rektum_1_clip_1578_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        267.44,
+        356.65,
+        186.32,
+        135.7
+      ],
+      "timepoint": "02:11:33"
+    }
+  ],
+  "Rektum_2_clip_2679_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        518.215,
+        381.25,
+        93.93,
+        317.5
+      ],
+      "timepoint": "03:43:18"
+    }
+  ],
+  "Rektum_3_clip_1730_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        473.97,
+        188.85,
+        292.94,
+        209.7
+      ],
+      "timepoint": "02:24:14"
+    }
+  ],
+  "Rektum_2_clip_2726_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        415.845,
+        210.27499999999998,
+        158.07,
+        371.59
+      ],
+      "timepoint": "03:47:11"
+    }
+  ],
+  "Sigma_5_clip_0557_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        326.795,
+        170.44,
+        487.23,
+        340.88
+      ],
+      "timepoint": "00:46:25"
+    }
+  ],
+  "Rektum_4_clip_0200_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        217.11,
+        323.15500000000003,
+        81.92,
+        66.71
+      ],
+      "timepoint": "00:16:41"
+    }
+  ],
+  "Rektum_1_clip_1219_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        278.85,
+        240.785,
+        199.48,
+        96.75
+      ],
+      "timepoint": "01:41:39"
+    }
+  ],
+  "Rektum_3_clip_1749_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        505.31,
+        281.32,
+        379.62,
+        517.36
+      ],
+      "timepoint": "02:25:46"
+    }
+  ],
+  "Rektum_7_clip_0218_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        248.5,
+        256.85,
+        255.4,
+        513.7
+      ],
+      "timepoint": "00:18:14"
+    }
+  ],
+  "Prokto_3_clip_0425_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        470.65,
+        341.975,
+        934.3,
+        396.05
+      ],
+      "timepoint": "00:35:28"
+    }
+  ],
+  "Prokto_3_clip_0930_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        200.82,
+        270.0,
+        208.76,
+        540.0
+      ],
+      "timepoint": "01:17:31"
+    }
+  ],
+  "Rektum_9_clip_2838_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        309.425,
+        125.62,
+        402.37,
+        193.28
+      ],
+      "timepoint": "03:56:30"
+    }
+  ],
+  "Rektum_8_clip_1770_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        677.965,
+        311.205,
+        34.47,
+        120.79
+      ],
+      "timepoint": "02:27:33"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        689.3599999999999,
+        317.375,
+        70.6,
+        118.37
+      ],
+      "timepoint": "02:27:33"
+    }
+  ],
+  "Sigma_1_clip_0084_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        409.5,
+        190.795,
+        34.28,
+        59.77
+      ],
+      "timepoint": "00:07:01"
+    }
+  ],
+  "Rektum_7_clip_2067_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        636.12,
+        98.25,
+        329.96,
+        196.5
+      ],
+      "timepoint": "02:52:19"
+    }
+  ],
+  "Sigma_1_clip_1156_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        389.99,
+        278.85499999999996,
+        424.72,
+        517.29
+      ],
+      "timepoint": "01:36:22"
+    }
+  ],
+  "Rektum_9_clip_2704_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        261.65,
+        168.545,
+        122.6,
+        337.09
+      ],
+      "timepoint": "03:45:24"
+    }
+  ],
+  "Rektum_7_clip_2996_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        389.615,
+        330.64,
+        527.43,
+        338.72
+      ],
+      "timepoint": "04:09:40"
+    }
+  ],
+  "Sigma_4_clip_0645_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        605.92,
+        274.725,
+        134.56,
+        311.81
+      ],
+      "timepoint": "00:53:45"
+    }
+  ],
+  "Sigma_5_clip_0559_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        308.705,
+        188.285,
+        470.01,
+        376.57
+      ],
+      "timepoint": "00:46:35"
+    }
+  ],
+  "Prokto_8_clip_1178_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        485.87,
+        447.68,
+        32.2,
+        26.98
+      ],
+      "timepoint": "01:38:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        465.005,
+        488.16,
+        34.01,
+        29.94
+      ],
+      "timepoint": "01:38:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        511.40999999999997,
+        172.9,
+        40.02,
+        36.2
+      ],
+      "timepoint": "01:38:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        453.875,
+        277.03499999999997,
+        27.63,
+        32.79
+      ],
+      "timepoint": "01:38:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        520.6,
+        388.0,
+        37.2,
+        29.8
+      ],
+      "timepoint": "01:38:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 6,
+      "bbox": [
+        529.115,
+        318.745,
+        9.13,
+        14.05
+      ],
+      "timepoint": "01:38:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 7,
+      "bbox": [
+        449.32,
+        134.91,
+        22.76,
+        39.02
+      ],
+      "timepoint": "01:38:11"
+    }
+  ],
+  "Rektum_7_clip_2136_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        616.375,
+        180.75,
+        442.75,
+        361.5
+      ],
+      "timepoint": "02:58:01"
+    }
+  ],
+  "Sigma_10_clip_1223_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        357.04,
+        456.46999999999997,
+        102.46,
+        49.18
+      ],
+      "timepoint": "01:41:55"
+    }
+  ],
+  "Prokto_4_clip_2068_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        349.765,
+        168.88,
+        251.61,
+        337.76
+      ],
+      "timepoint": "02:52:20"
+    }
+  ],
+  "Sigma_9_clip_0522_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        462.25,
+        288.15,
+        681.9,
+        497.5
+      ],
+      "timepoint": "00:43:32"
+    }
+  ],
+  "Sigma_1_clip_0101_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        467.945,
+        402.72,
+        66.79,
+        166.86
+      ],
+      "timepoint": "00:08:25"
+    }
+  ],
+  "Rektum_3_clip_1822_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        432.515,
+        343.0,
+        512.23,
+        387.76
+      ],
+      "timepoint": "02:31:50"
+    }
+  ],
+  "Sigma_5_clip_0487_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        596.815,
+        216.1,
+        543.77,
+        432.2
+      ],
+      "timepoint": "00:40:39"
+    }
+  ],
+  "Rektum_1_clip_2813_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        339.84000000000003,
+        349.40999999999997,
+        222.76,
+        379.38
+      ],
+      "timepoint": "03:54:25"
+    }
+  ],
+  "Sigma_8_clip_0596_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        388.615,
+        356.875,
+        39.39,
+        23.05
+      ],
+      "timepoint": "00:49:44"
+    }
+  ],
+  "Rektum_1_clip_3018_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        465.395,
+        110.83000000000001,
+        37.49,
+        87.86
+      ],
+      "timepoint": "04:11:33"
+    }
+  ],
+  "Prokto_8_clip_1759_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        525.65,
+        246.415,
+        286.3,
+        282.63
+      ],
+      "timepoint": "02:26:36"
+    }
+  ],
+  "Rektum_9_clip_1247_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        213.3,
+        317.0,
+        214.6,
+        219.8
+      ],
+      "timepoint": "01:43:55"
+    }
+  ],
+  "Rektum_3_clip_1728_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        493.03499999999997,
+        378.75,
+        282.27,
+        240.7
+      ],
+      "timepoint": "02:24:04"
+    }
+  ],
+  "Sigma_1_clip_0059_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        350.745,
+        110.22,
+        133.49,
+        33.22
+      ],
+      "timepoint": "00:04:56"
+    }
+  ],
+  "Prokto_7_clip_2029_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        629.38,
+        149.965,
+        315.44,
+        104.13
+      ],
+      "timepoint": "02:49:09"
+    }
+  ],
+  "Sigma_5_clip_1269_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        469.13,
+        155.22500000000002,
+        35.64,
+        67.65
+      ],
+      "timepoint": "01:45:47"
+    }
+  ],
+  "Prokto_5_clip_2360_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        586.96,
+        271.085,
+        101.12,
+        297.03
+      ],
+      "timepoint": "03:16:42"
+    }
+  ],
+  "Prokto_3_clip_1899_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        663.9399999999999,
+        192.715,
+        244.08,
+        385.43
+      ],
+      "timepoint": "02:38:16"
+    }
+  ],
+  "Prokto_8_clip_1856_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        452.725,
+        389.21000000000004,
+        183.93,
+        298.18
+      ],
+      "timepoint": "02:34:40"
+    }
+  ],
+  "Prokto_6_clip_1470_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        361.95,
+        268.74,
+        525.3,
+        537.48
+      ],
+      "timepoint": "02:02:31"
+    }
+  ],
+  "Rektum_5_clip_0869_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        521.05,
+        478.45,
+        453.1,
+        117.3
+      ],
+      "timepoint": "01:12:25"
+    }
+  ],
+  "Sigma_8_clip_0460_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        426.8,
+        396.25,
+        454.6,
+        281.7
+      ],
+      "timepoint": "00:38:21"
+    }
+  ],
+  "Sigma_9_clip_3126_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        567.9399999999999,
+        488.11,
+        49.34,
+        99.98
+      ],
+      "timepoint": "04:20:32"
+    }
+  ],
+  "Rektum_2_clip_0754_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        631.0,
+        379.6,
+        272.2,
+        234.6
+      ],
+      "timepoint": "01:02:50"
+    }
+  ],
+  "Rektum_1_clip_0663_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        727.1700000000001,
+        303.82,
+        318.64,
+        241.28
+      ],
+      "timepoint": "00:55:16"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        167.6,
+        280.83,
+        120.74,
+        88.82
+      ],
+      "timepoint": "00:55:16"
+    }
+  ],
+  "Prokto_9_clip_2351_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        505.4,
+        306.21,
+        529.62,
+        202.84
+      ],
+      "timepoint": "03:15:58"
+    }
+  ],
+  "Sigma_6_clip_2525_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        376.55,
+        268.05,
+        491.3,
+        189.5
+      ],
+      "timepoint": "03:30:27"
+    }
+  ],
+  "Sigma_3_clip_1069_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        296.0,
+        203.45,
+        592.0,
+        406.9
+      ],
+      "timepoint": "01:29:09"
+    }
+  ],
+  "Prokto_3_clip_0463_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        797.325,
+        418.79499999999996,
+        325.35,
+        239.03
+      ],
+      "timepoint": "00:38:38"
+    }
+  ],
+  "Prokto_8_clip_1843_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        497.03499999999997,
+        299.945,
+        410.15,
+        381.61
+      ],
+      "timepoint": "02:33:36"
+    }
+  ],
+  "Rektum_9_clip_2819_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        436.135,
+        77.66499999999999,
+        585.25,
+        152.73
+      ],
+      "timepoint": "03:54:55"
+    }
+  ],
+  "Rektum_6_clip_1023_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        581.0500000000001,
+        278.05,
+        173.9,
+        112.7
+      ],
+      "timepoint": "01:25:19"
+    }
+  ],
+  "Sigma_5_clip_0493_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        322.35499999999996,
+        270.0,
+        528.17,
+        540.0
+      ],
+      "timepoint": "00:41:08"
+    }
+  ],
+  "Sigma_8_clip_1683_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        415.995,
+        113.37,
+        430.77,
+        202.34
+      ],
+      "timepoint": "02:20:17"
+    }
+  ],
+  "Rektum_9_clip_0375_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        250.45000000000002,
+        359.9,
+        219.3,
+        256.4
+      ],
+      "timepoint": "00:31:15"
+    }
+  ],
+  "Rektum_8_clip_1912_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        589.09,
+        512.23,
+        62.42,
+        49.72
+      ],
+      "timepoint": "02:39:22"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        556.435,
+        512.57,
+        62.53,
+        49.06
+      ],
+      "timepoint": "02:39:22"
+    }
+  ],
+  "Rektum_9_clip_2837_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        331.935,
+        65.805,
+        351.35,
+        131.61
+      ],
+      "timepoint": "03:56:29"
+    }
+  ],
+  "Sigma_1_clip_1145_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        429.72999999999996,
+        225.915,
+        683.04,
+        451.83
+      ],
+      "timepoint": "01:35:25"
+    }
+  ],
+  "Rektum_6_clip_3183_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        418.09,
+        385.25,
+        117.62,
+        306.5
+      ],
+      "timepoint": "04:25:16"
+    }
+  ],
+  "Sigma_5_clip_0522_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        234.41500000000002,
+        262.075,
+        349.11,
+        524.15
+      ],
+      "timepoint": "00:43:34"
+    }
+  ],
+  "Sigma_5_clip_0495_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        302.63,
+        269.985,
+        394.58,
+        539.97
+      ],
+      "timepoint": "00:41:19"
+    }
+  ],
+  "Rektum_6_clip_0765_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        403.315,
+        275.42,
+        63.83,
+        56.84
+      ],
+      "timepoint": "01:03:49"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        440.655,
+        187.45,
+        51.89,
+        18.7
+      ],
+      "timepoint": "01:03:49"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        416.065,
+        202.69,
+        96.89,
+        58.62
+      ],
+      "timepoint": "01:03:49"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        398.83500000000004,
+        246.885,
+        102.73,
+        74.43
+      ],
+      "timepoint": "01:03:49"
+    }
+  ],
+  "Sigma_5_clip_0488_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        627.4649999999999,
+        340.765,
+        478.53,
+        398.47
+      ],
+      "timepoint": "00:40:41"
+    }
+  ],
+  "Rektum_7_clip_3063_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        323.21,
+        224.73000000000002,
+        386.64,
+        222.5
+      ],
+      "timepoint": "04:15:18"
+    }
+  ],
+  "Sigma_5_clip_0487_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        570.925,
+        246.59,
+        617.15,
+        493.18
+      ],
+      "timepoint": "00:40:37"
+    }
+  ],
+  "Prokto_3_clip_0722_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        724.655,
+        185.75,
+        394.87,
+        333.3
+      ],
+      "timepoint": "01:00:10"
+    }
+  ],
+  "Sigma_9_clip_1975_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        317.235,
+        343.995,
+        389.13,
+        386.01
+      ],
+      "timepoint": "02:44:38"
+    },
+    {
+      "class": "Sponge",
+      "instance": 2,
+      "bbox": [
+        716.51,
+        391.55,
+        179.58,
+        145.5
+      ],
+      "timepoint": "02:44:38"
+    }
+  ],
+  "Rektum_10_clip_0494_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        277.725,
+        228.13000000000002,
+        62.89,
+        20.6
+      ],
+      "timepoint": "00:41:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        291.175,
+        193.475,
+        44.45,
+        28.67
+      ],
+      "timepoint": "00:41:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        272.16499999999996,
+        205.245,
+        73.93,
+        40.09
+      ],
+      "timepoint": "00:41:11"
+    }
+  ],
+  "Prokto_7_clip_0788_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        562.425,
+        449.15000000000003,
+        167.25,
+        61.1
+      ],
+      "timepoint": "01:05:42"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        582.74,
+        117.46,
+        34.6,
+        27.54
+      ],
+      "timepoint": "01:05:42"
+    }
+  ],
+  "Rektum_6_clip_3173_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        338.305,
+        384.15500000000003,
+        405.29,
+        115.37
+      ],
+      "timepoint": "04:24:27"
+    }
+  ],
+  "Prokto_4_clip_2006_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        696.18,
+        227.905,
+        64.3,
+        353.61
+      ],
+      "timepoint": "02:47:12"
+    }
+  ],
+  "Prokto_5_clip_2423_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        456.27,
+        349.655,
+        581.5,
+        194.67
+      ],
+      "timepoint": "03:21:55"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        390.11,
+        439.57,
+        90.18,
+        192.46
+      ],
+      "timepoint": "03:21:55"
+    }
+  ],
+  "Sigma_1_clip_1156_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        340.275,
+        293.64,
+        372.73,
+        474.14
+      ],
+      "timepoint": "01:36:23"
+    }
+  ],
+  "Rektum_7_clip_2069_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        505.06999999999994,
+        333.91499999999996,
+        334.08,
+        286.57
+      ],
+      "timepoint": "02:52:26"
+    }
+  ],
+  "Sigma_1_clip_0088_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        346.245,
+        144.625,
+        119.65,
+        177.25
+      ],
+      "timepoint": "00:07:23"
+    }
+  ],
+  "Sigma_9_clip_0176_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        333.45,
+        224.35,
+        424.7,
+        448.7
+      ],
+      "timepoint": "00:14:42"
+    }
+  ],
+  "Rektum_7_clip_2067_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        718.9200000000001,
+        183.04999999999998,
+        202.68,
+        270.9
+      ],
+      "timepoint": "02:52:18"
+    }
+  ],
+  "Prokto_5_clip_0050_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        410.495,
+        446.08500000000004,
+        70.51,
+        134.31
+      ],
+      "timepoint": "00:04:13"
+    }
+  ],
+  "Prokto_2_clip_2720_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        706.07,
+        405.15,
+        237.26,
+        265.26
+      ],
+      "timepoint": "03:46:43"
+    }
+  ],
+  "Rektum_2_clip_2591_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        451.625,
+        324.205,
+        245.67,
+        428.09
+      ],
+      "timepoint": "03:35:57"
+    }
+  ],
+  "Rektum_8_clip_0457_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        253.58999999999997,
+        120.2,
+        162.16,
+        90.22
+      ],
+      "timepoint": "00:38:08"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        266.39,
+        430.17,
+        151.82,
+        75.86
+      ],
+      "timepoint": "00:38:08"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        267.745,
+        390.57,
+        146.63,
+        65.88
+      ],
+      "timepoint": "00:38:08"
+    }
+  ],
+  "Sigma_5_clip_1274_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        429.96000000000004,
+        193.355,
+        86.34,
+        39.01
+      ],
+      "timepoint": "01:46:14"
+    }
+  ],
+  "Rektum_3_clip_1554_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        230.905,
+        369.485,
+        142.55,
+        294.89
+      ],
+      "timepoint": "02:09:33"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        528.35,
+        379.75,
+        351.1,
+        289.7
+      ],
+      "timepoint": "02:09:33"
+    }
+  ],
+  "Rektum_3_clip_1559_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        294.21000000000004,
+        320.67999999999995,
+        318.42,
+        332.4
+      ],
+      "timepoint": "02:09:58"
+    }
+  ],
+  "Prokto_3_clip_1116_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        133.565,
+        384.15,
+        119.73,
+        206.64
+      ],
+      "timepoint": "01:33:00"
+    }
+  ],
+  "Prokto_6_clip_1495_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        365.22,
+        440.39,
+        140.32,
+        199.22
+      ],
+      "timepoint": "02:04:37"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 2,
+      "bbox": [
+        487.555,
+        395.625,
+        339.47,
+        287.51
+      ],
+      "timepoint": "02:04:37"
+    },
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        315.745,
+        134.915,
+        116.81,
+        167.87
+      ],
+      "timepoint": "02:04:37"
+    }
+  ],
+  "Sigma_5_clip_1205_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        293.035,
+        187.185,
+        107.45,
+        183.61
+      ],
+      "timepoint": "01:40:29"
+    }
+  ],
+  "Rektum_7_clip_2148_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        549.45,
+        348.275,
+        402.3,
+        121.65
+      ],
+      "timepoint": "02:59:01"
+    }
+  ],
+  "Sigma_1_clip_1147_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        396.27,
+        335.86,
+        521.46,
+        408.28
+      ],
+      "timepoint": "01:35:39"
+    }
+  ],
+  "Rektum_3_clip_1730_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        473.64,
+        249.685,
+        311.04,
+        219.63
+      ],
+      "timepoint": "02:24:13"
+    }
+  ],
+  "Sigma_5_clip_0561_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        308.15,
+        160.8,
+        497.9,
+        321.6
+      ],
+      "timepoint": "00:46:48"
+    }
+  ],
+  "Prokto_5_clip_2430_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        205.665,
+        233.83499999999998,
+        60.01,
+        99.71
+      ],
+      "timepoint": "03:22:31"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 2,
+      "bbox": [
+        581.405,
+        272.08,
+        391.81,
+        252.46
+      ],
+      "timepoint": "03:22:31"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 3,
+      "bbox": [
+        526.345,
+        370.98,
+        474.97,
+        338.04
+      ],
+      "timepoint": "03:22:31"
+    }
+  ],
+  "Rektum_7_clip_3075_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        214.935,
+        317.145,
+        161.53,
+        92.91
+      ],
+      "timepoint": "04:16:17"
+    }
+  ],
+  "Prokto_7_clip_1797_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        591.04,
+        407.4,
+        22.34,
+        97.66
+      ],
+      "timepoint": "02:29:48"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        562.03,
+        350.35,
+        527.3,
+        379.3
+      ],
+      "timepoint": "02:29:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        556.925,
+        394.64,
+        42.07,
+        88.72
+      ],
+      "timepoint": "02:29:48"
+    }
+  ],
+  "Prokto_5_clip_0937_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        294.6,
+        396.35,
+        256.2,
+        281.3
+      ],
+      "timepoint": "01:18:06"
+    }
+  ],
+  "Prokto_9_clip_2360_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        587.885,
+        286.38,
+        101.37,
+        322.84
+      ],
+      "timepoint": "03:16:41"
+    }
+  ],
+  "Rektum_3_clip_1591_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        394.24,
+        353.98,
+        26.32,
+        7.96
+      ],
+      "timepoint": "02:12:36"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        399.04,
+        362.07,
+        32.12,
+        9.74
+      ],
+      "timepoint": "02:12:36"
+    }
+  ],
+  "Prokto_5_clip_1183_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        283.1,
+        361.04999999999995,
+        193.6,
+        342.7
+      ],
+      "timepoint": "01:38:35"
+    }
+  ],
+  "Rektum_5_clip_2180_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        489.15500000000003,
+        223.85,
+        18.59,
+        11.46
+      ],
+      "timepoint": "03:01:42"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        487.465,
+        234.865,
+        13.31,
+        5.73
+      ],
+      "timepoint": "03:01:42"
+    }
+  ],
+  "Rektum_2_clip_2584_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        564.47,
+        330.58000000000004,
+        139.26,
+        398.3
+      ],
+      "timepoint": "03:35:24"
+    }
+  ],
+  "Rektum_4_clip_0133_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        489.7,
+        326.83500000000004,
+        22.22,
+        62.59
+      ],
+      "timepoint": "00:11:09"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        500.505,
+        323.87,
+        19.79,
+        58.54
+      ],
+      "timepoint": "00:11:09"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        423.35,
+        331.95,
+        22.7,
+        58.9
+      ],
+      "timepoint": "00:11:09"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        438.40500000000003,
+        343.28,
+        10.99,
+        38.56
+      ],
+      "timepoint": "00:11:09"
+    }
+  ],
+  "Rektum_1_clip_3312_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        207.305,
+        447.625,
+        316.19,
+        180.23
+      ],
+      "timepoint": "04:36:00"
+    }
+  ],
+  "Sigma_9_clip_0226_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        445.45000000000005,
+        412.3,
+        633.1,
+        249.4
+      ],
+      "timepoint": "00:18:53"
+    }
+  ],
+  "Rektum_9_clip_1299_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        232.10000000000002,
+        252.5,
+        247.8,
+        250.4
+      ],
+      "timepoint": "01:48:19"
+    }
+  ],
+  "Prokto_4_clip_0061_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        564.72,
+        38.405,
+        79.12,
+        59.61
+      ],
+      "timepoint": "00:05:06"
+    }
+  ],
+  "Prokto_3_clip_0761_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        306.395,
+        394.795,
+        429.69,
+        290.41
+      ],
+      "timepoint": "01:03:29"
+    }
+  ],
+  "Rektum_6_clip_0625_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        596.2,
+        188.72,
+        424.4,
+        377.44
+      ],
+      "timepoint": "00:52:08"
+    }
+  ],
+  "Rektum_9_clip_0619_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        376.135,
+        357.09000000000003,
+        123.53,
+        27.22
+      ],
+      "timepoint": "00:51:38"
+    }
+  ],
+  "Prokto_5_clip_2423_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        441.35999999999996,
+        405.145,
+        103.8,
+        265.13
+      ],
+      "timepoint": "03:21:59"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        468.435,
+        284.99,
+        611.49,
+        173.74
+      ],
+      "timepoint": "03:21:59"
+    }
+  ],
+  "Prokto_3_clip_0344_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        852.5,
+        274.45,
+        214.0,
+        318.9
+      ],
+      "timepoint": "00:28:41"
+    }
+  ],
+  "Rektum_1_clip_3260_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        213.57000000000002,
+        453.08500000000004,
+        65.92,
+        173.83
+      ],
+      "timepoint": "04:31:42"
+    }
+  ],
+  "Prokto_6_clip_1490_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        265.75,
+        358.7,
+        327.1,
+        359.4
+      ],
+      "timepoint": "02:04:11"
+    },
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        418.49,
+        247.675,
+        149.7,
+        129.93
+      ],
+      "timepoint": "02:04:11"
+    }
+  ],
+  "Prokto_5_clip_0405_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        494.425,
+        184.57,
+        13.63,
+        55.84
+      ],
+      "timepoint": "00:33:46"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        580.85,
+        474.15,
+        270.68,
+        127.66
+      ],
+      "timepoint": "00:33:46"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        483.73499999999996,
+        145.1,
+        8.17,
+        25.88
+      ],
+      "timepoint": "00:33:46"
+    }
+  ],
+  "Sigma_5_clip_1208_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        307.16,
+        118.89500000000001,
+        121.34,
+        92.55
+      ],
+      "timepoint": "01:40:42"
+    }
+  ],
+  "Rektum_9_clip_2706_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        290.325,
+        163.6,
+        96.89,
+        327.2
+      ],
+      "timepoint": "03:45:30"
+    }
+  ],
+  "Prokto_5_clip_0047_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        525.68,
+        195.855,
+        87.84,
+        65.69
+      ],
+      "timepoint": "00:03:59"
+    }
+  ],
+  "Rektum_2_clip_2575_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        528.77,
+        263.7,
+        287.22,
+        297.34
+      ],
+      "timepoint": "03:34:35"
+    }
+  ],
+  "Rektum_7_clip_2072_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        428.175,
+        350.65,
+        594.25,
+        378.7
+      ],
+      "timepoint": "02:52:41"
+    }
+  ],
+  "Sigma_8_clip_1468_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        309.33000000000004,
+        182.655,
+        181.86,
+        88.99
+      ],
+      "timepoint": "02:02:22"
+    }
+  ],
+  "Rektum_7_clip_3054_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        284.89,
+        221.905,
+        323.3,
+        171.05
+      ],
+      "timepoint": "04:14:30"
+    }
+  ],
+  "Prokto_6_clip_1616_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        561.52,
+        452.71000000000004,
+        236.24,
+        174.58
+      ],
+      "timepoint": "02:14:40"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        829.475,
+        435.345,
+        23.45,
+        18.95
+      ],
+      "timepoint": "02:14:40"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        478.7,
+        472.905,
+        80.1,
+        129.79
+      ],
+      "timepoint": "02:14:40"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        153.89,
+        382.63,
+        220.4,
+        234.1
+      ],
+      "timepoint": "02:14:40"
+    }
+  ],
+  "Prokto_7_clip_1962_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        600.77,
+        250.57999999999998,
+        316.38,
+        234.32
+      ],
+      "timepoint": "02:43:32"
+    }
+  ],
+  "Rektum_4_clip_0470_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        360.37,
+        464.675,
+        83.04,
+        119.45
+      ],
+      "timepoint": "00:39:10"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        333.51000000000005,
+        225.86,
+        64.58,
+        56.48
+      ],
+      "timepoint": "00:39:10"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        275.41,
+        242.125,
+        35.36,
+        46.73
+      ],
+      "timepoint": "00:39:10"
+    }
+  ],
+  "Rektum_5_clip_0229_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        467.9,
+        410.41999999999996,
+        16.8,
+        75.56
+      ],
+      "timepoint": "00:19:08"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        501.56,
+        394.97,
+        13.68,
+        77.46
+      ],
+      "timepoint": "00:19:08"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        441.36,
+        414.16,
+        21.28,
+        69.88
+      ],
+      "timepoint": "00:19:08"
+    }
+  ],
+  "Prokto_7_clip_1956_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        597.14,
+        226.08499999999998,
+        340.12,
+        256.21
+      ],
+      "timepoint": "02:43:03"
+    }
+  ],
+  "Sigma_8_clip_0222_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        506.25,
+        287.6,
+        237.5,
+        263.0
+      ],
+      "timepoint": "00:18:30"
+    }
+  ],
+  "Prokto_2_clip_2785_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        258.11,
+        436.195,
+        83.98,
+        207.61
+      ],
+      "timepoint": "03:52:07"
+    }
+  ],
+  "Rektum_2_clip_2607_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        557.125,
+        318.44,
+        187.17,
+        438.32
+      ],
+      "timepoint": "03:37:18"
+    }
+  ],
+  "Rektum_1_clip_3287_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        136.17,
+        438.19000000000005,
+        75.46,
+        198.44
+      ],
+      "timepoint": "04:33:57"
+    }
+  ],
+  "Sigma_5_clip_0554_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        373.06000000000006,
+        102.35,
+        596.32,
+        204.7
+      ],
+      "timepoint": "00:46:14"
+    }
+  ],
+  "Rektum_1_clip_3030_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        427.18,
+        254.14999999999998,
+        40.88,
+        153.92
+      ],
+      "timepoint": "04:12:32"
+    }
+  ],
+  "Sigma_1_clip_0083_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        351.02,
+        352.015,
+        19.86,
+        130.19
+      ],
+      "timepoint": "00:06:59"
+    }
+  ],
+  "Sigma_8_clip_1582_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        615.415,
+        297.585,
+        100.23,
+        188.23
+      ],
+      "timepoint": "02:11:52"
+    }
+  ],
+  "Sigma_5_clip_0562_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        344.65,
+        136.51,
+        484.56,
+        273.02
+      ],
+      "timepoint": "00:46:50"
+    }
+  ],
+  "Rektum_1_clip_1226_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        474.83000000000004,
+        243.35500000000002,
+        264.82,
+        343.17
+      ],
+      "timepoint": "01:42:10"
+    }
+  ],
+  "Rektum_3_clip_1958_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        338.7,
+        211.54999999999998,
+        410.4,
+        329.9
+      ],
+      "timepoint": "02:43:13"
+    }
+  ],
+  "Sigma_5_clip_0260_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        810.285,
+        318.85,
+        145.83,
+        435.9
+      ],
+      "timepoint": "00:21:42"
+    }
+  ],
+  "Prokto_10_clip_3427_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        538.98,
+        350.545,
+        250.14,
+        271.91
+      ],
+      "timepoint": "04:45:35"
+    }
+  ],
+  "Prokto_8_clip_1851_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        514.485,
+        383.005,
+        250.37,
+        313.99
+      ],
+      "timepoint": "02:34:18"
+    }
+  ],
+  "Rektum_1_clip_0664_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        266.115,
+        430.21500000000003,
+        78.29,
+        98.23
+      ],
+      "timepoint": "00:55:23"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        715.165,
+        428.79499999999996,
+        268.87,
+        222.41
+      ],
+      "timepoint": "00:55:23"
+    }
+  ],
+  "Rektum_2_clip_2603_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        438.27,
+        274.635,
+        377.74,
+        217.13
+      ],
+      "timepoint": "03:36:58"
+    }
+  ],
+  "Prokto_7_clip_0483_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        469.945,
+        126.33500000000001,
+        40.13,
+        89.45
+      ],
+      "timepoint": "00:40:17"
+    }
+  ],
+  "Rektum_1_clip_0216_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        157.89000000000001,
+        83.35,
+        20.42,
+        49.5
+      ],
+      "timepoint": "00:18:00"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        789.39,
+        376.59499999999997,
+        134.22,
+        232.41
+      ],
+      "timepoint": "00:18:00"
+    }
+  ],
+  "Prokto_6_clip_0925_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        222.305,
+        435.7,
+        302.79,
+        203.6
+      ],
+      "timepoint": "01:17:06"
+    }
+  ],
+  "Rektum_8_clip_0465_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        439.995,
+        365.575,
+        96.59,
+        52.85
+      ],
+      "timepoint": "00:38:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        416.46999999999997,
+        373.755,
+        103.52,
+        64.97
+      ],
+      "timepoint": "00:38:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        410.675,
+        33.3,
+        103.75,
+        66.6
+      ],
+      "timepoint": "00:38:48"
+    }
+  ],
+  "Sigma_9_clip_3138_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        587.5250000000001,
+        129.98499999999999,
+        77.39,
+        193.95
+      ],
+      "timepoint": "04:21:31"
+    }
+  ],
+  "Sigma_3_clip_2630_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        808.855,
+        320.16499999999996,
+        302.29,
+        256.07
+      ],
+      "timepoint": "03:39:14"
+    }
+  ],
+  "Rektum_7_clip_2064_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        570.815,
+        259.755,
+        270.87,
+        151.29
+      ],
+      "timepoint": "02:52:03"
+    }
+  ],
+  "Rektum_1_clip_3166_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        92.67500000000001,
+        311.115,
+        141.27,
+        160.57
+      ],
+      "timepoint": "04:23:51"
+    }
+  ],
+  "Prokto_9_clip_2422_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        465.55,
+        307.65,
+        602.5,
+        165.3
+      ],
+      "timepoint": "03:21:52"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        447.22499999999997,
+        427.6,
+        100.65,
+        219.0
+      ],
+      "timepoint": "03:21:52"
+    }
+  ],
+  "Rektum_7_clip_3042_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        649.215,
+        377.74,
+        87.01,
+        324.52
+      ],
+      "timepoint": "04:13:32"
+    }
+  ],
+  "Sigma_9_clip_2481_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        543.0,
+        365.7,
+        495.8,
+        342.4
+      ],
+      "timepoint": "03:26:45"
+    }
+  ],
+  "Rektum_7_clip_2172_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        287.25,
+        263.955,
+        341.5,
+        159.57
+      ],
+      "timepoint": "03:01:00"
+    }
+  ],
+  "Rektum_3_clip_1742_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        569.135,
+        270.0,
+        462.71,
+        540.0
+      ],
+      "timepoint": "02:25:11"
+    }
+  ],
+  "Sigma_5_clip_1229_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        291.235,
+        372.61499999999995,
+        94.47,
+        56.17
+      ],
+      "timepoint": "01:42:29"
+    }
+  ],
+  "Rektum_3_clip_1720_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        521.785,
+        321.635,
+        368.07,
+        436.73
+      ],
+      "timepoint": "02:23:22"
+    }
+  ],
+  "Rektum_7_clip_2255_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        702.5450000000001,
+        213.0,
+        254.11,
+        426.0
+      ],
+      "timepoint": "03:07:58"
+    }
+  ],
+  "Rektum_8_clip_0457_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        299.255,
+        412.03,
+        156.79,
+        86.5
+      ],
+      "timepoint": "00:38:06"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        274.59000000000003,
+        448.28999999999996,
+        159.2,
+        102.9
+      ],
+      "timepoint": "00:38:06"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        225.70499999999998,
+        113.37,
+        129.47,
+        139.66
+      ],
+      "timepoint": "00:38:06"
+    }
+  ],
+  "Rektum_8_clip_1964_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        514.25,
+        503.7,
+        45.3,
+        66.8
+      ],
+      "timepoint": "02:43:43"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        552.65,
+        511.54999999999995,
+        56.3,
+        51.3
+      ],
+      "timepoint": "02:43:43"
+    }
+  ],
+  "Prokto_4_clip_0042_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        450.215,
+        184.13,
+        25.15,
+        50.26
+      ],
+      "timepoint": "00:03:30"
+    }
+  ],
+  "Rektum_6_clip_0656_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        372.75,
+        175.10000000000002,
+        235.1,
+        161.8
+      ],
+      "timepoint": "00:54:41"
+    }
+  ],
+  "Rektum_1_clip_2999_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        254.96499999999997,
+        217.14499999999998,
+        84.15,
+        135.91
+      ],
+      "timepoint": "04:09:57"
+    }
+  ],
+  "Sigma_5_clip_0490_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        598.785,
+        269.25,
+        537.89,
+        538.5
+      ],
+      "timepoint": "00:40:52"
+    }
+  ],
+  "Sigma_8_clip_1573_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        500.865,
+        157.02499999999998,
+        163.19,
+        91.07
+      ],
+      "timepoint": "02:11:05"
+    }
+  ],
+  "Rektum_8_clip_0405_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        558.615,
+        393.09499999999997,
+        166.67,
+        48.27
+      ],
+      "timepoint": "00:33:46"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        570.5,
+        349.05,
+        141.0,
+        33.7
+      ],
+      "timepoint": "00:33:46"
+    }
+  ],
+  "Rektum_3_clip_0329_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        739.4599999999999,
+        297.185,
+        138.32,
+        156.75
+      ],
+      "timepoint": "00:27:25"
+    }
+  ],
+  "Rektum_4_clip_0481_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        765.5550000000001,
+        316.115,
+        58.15,
+        75.85
+      ],
+      "timepoint": "00:40:08"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        405.06,
+        497.01000000000005,
+        37.22,
+        81.58
+      ],
+      "timepoint": "00:40:08"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        193.49,
+        200.485,
+        130.88,
+        241.43
+      ],
+      "timepoint": "00:40:08"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        444.88,
+        498.59999999999997,
+        40.44,
+        77.8
+      ],
+      "timepoint": "00:40:08"
+    }
+  ],
+  "Sigma_8_clip_1565_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        411.02500000000003,
+        156.45,
+        126.09,
+        141.3
+      ],
+      "timepoint": "02:10:25"
+    }
+  ],
+  "Sigma_8_clip_1553_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        369.35,
+        113.36500000000001,
+        166.74,
+        84.93
+      ],
+      "timepoint": "02:09:29"
+    }
+  ],
+  "Sigma_5_clip_0554_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        387.28,
+        102.4,
+        577.76,
+        204.8
+      ],
+      "timepoint": "00:46:13"
+    }
+  ],
+  "Rektum_3_clip_1729_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        521.925,
+        434.81,
+        242.73,
+        210.38
+      ],
+      "timepoint": "02:24:06"
+    }
+  ],
+  "Rektum_5_clip_0760_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        323.63,
+        418.325,
+        429.06,
+        237.35
+      ],
+      "timepoint": "01:03:20"
+    }
+  ],
+  "Rektum_3_clip_1858_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        608.12,
+        163.75,
+        459.04,
+        258.3
+      ],
+      "timepoint": "02:34:53"
+    }
+  ],
+  "Sigma_8_clip_1542_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        208.5,
+        169.95499999999998,
+        88.24,
+        111.15
+      ],
+      "timepoint": "02:08:33"
+    }
+  ],
+  "Sigma_9_clip_0551_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        456.35,
+        282.15,
+        683.9,
+        346.3
+      ],
+      "timepoint": "00:45:57"
+    }
+  ],
+  "Prokto_5_clip_2406_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        694.735,
+        479.79499999999996,
+        39.69,
+        30.91
+      ],
+      "timepoint": "03:20:34"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        606.55,
+        202.51,
+        370.1,
+        383.58
+      ],
+      "timepoint": "03:20:34"
+    }
+  ],
+  "Rektum_6_clip_3203_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        522.975,
+        173.35,
+        597.83,
+        346.7
+      ],
+      "timepoint": "04:26:59"
+    }
+  ],
+  "Rektum_7_clip_2201_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        411.245,
+        447.40000000000003,
+        479.13,
+        182.6
+      ],
+      "timepoint": "03:03:25"
+    }
+  ],
+  "Sigma_5_clip_0497_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        348.115,
+        216.855,
+        517.33,
+        433.71
+      ],
+      "timepoint": "00:41:26"
+    }
+  ],
+  "Sigma_5_clip_0558_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        306.855,
+        158.75,
+        464.69,
+        317.5
+      ],
+      "timepoint": "00:46:34"
+    }
+  ],
+  "Prokto_4_clip_1129_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        376.70000000000005,
+        191.1,
+        305.8,
+        382.2
+      ],
+      "timepoint": "01:34:05"
+    }
+  ],
+  "Rektum_6_clip_0761_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        481.895,
+        161.54500000000002,
+        104.13,
+        66.49
+      ],
+      "timepoint": "01:03:27"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        464.74,
+        208.905,
+        108.68,
+        87.13
+      ],
+      "timepoint": "01:03:27"
+    }
+  ],
+  "Prokto_6_clip_1514_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        582.8050000000001,
+        215.56,
+        579.37,
+        431.12
+      ],
+      "timepoint": "02:06:13"
+    }
+  ],
+  "Rektum_5_clip_0542_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        494.39,
+        341.29,
+        39.02,
+        14.22
+      ],
+      "timepoint": "00:45:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        436.505,
+        301.44,
+        190.59,
+        73.52
+      ],
+      "timepoint": "00:45:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        461.92,
+        266.51,
+        174.76,
+        62.18
+      ],
+      "timepoint": "00:45:11"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        511.505,
+        232.98000000000002,
+        114.61,
+        46.34
+      ],
+      "timepoint": "00:45:11"
+    }
+  ],
+  "Rektum_1_clip_0695_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        268.035,
+        501.35499999999996,
+        46.53,
+        77.29
+      ],
+      "timepoint": "00:57:55"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        752.14,
+        460.735,
+        140.32,
+        158.53
+      ],
+      "timepoint": "00:57:55"
+    },
+    {
+      "class": "Sponge",
+      "instance": 2,
+      "bbox": [
+        100.96,
+        146.25,
+        201.92,
+        171.1
+      ],
+      "timepoint": "00:57:55"
+    }
+  ],
+  "Prokto_2_clip_2784_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        264.51,
+        436.195,
+        114.62,
+        204.61
+      ],
+      "timepoint": "03:52:03"
+    }
+  ],
+  "Prokto_9_clip_0854_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        414.35,
+        356.38,
+        435.7,
+        361.44
+      ],
+      "timepoint": "01:11:10"
+    }
+  ],
+  "Sigma_4_clip_0877_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        374.8,
+        194.95,
+        45.32,
+        66.1
+      ],
+      "timepoint": "01:13:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        293.5,
+        423.57,
+        33.42,
+        71.04
+      ],
+      "timepoint": "01:13:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        339.21000000000004,
+        401.40999999999997,
+        23.58,
+        37.42
+      ],
+      "timepoint": "01:13:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        184.17,
+        234.16,
+        76.0,
+        34.14
+      ],
+      "timepoint": "01:13:05"
+    }
+  ],
+  "Rektum_2_clip_2711_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        304.115,
+        370.805,
+        191.91,
+        172.03
+      ],
+      "timepoint": "03:45:55"
+    }
+  ],
+  "Sigma_5_clip_0488_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        580.73,
+        348.96500000000003,
+        573.04,
+        362.67
+      ],
+      "timepoint": "00:40:42"
+    }
+  ],
+  "Rektum_5_clip_2244_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        620.37,
+        296.01,
+        71.94,
+        93.64
+      ],
+      "timepoint": "03:07:03"
+    }
+  ],
+  "Rektum_3_clip_1760_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        457.975,
+        301.8,
+        550.77,
+        476.4
+      ],
+      "timepoint": "02:26:44"
+    }
+  ],
+  "Sigma_9_clip_1929_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        368.34,
+        336.48,
+        28.8,
+        20.38
+      ],
+      "timepoint": "02:40:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        360.965,
+        305.745,
+        75.87,
+        59.37
+      ],
+      "timepoint": "02:40:48"
+    }
+  ],
+  "Sigma_6_clip_2537_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        425.055,
+        246.6,
+        498.31,
+        493.2
+      ],
+      "timepoint": "03:31:26"
+    }
+  ],
+  "Prokto_3_clip_0576_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        321.25,
+        331.59000000000003,
+        497.9,
+        410.42
+      ],
+      "timepoint": "00:48:00"
+    }
+  ],
+  "Rektum_2_clip_2603_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        293.63,
+        233.065,
+        257.76,
+        240.87
+      ],
+      "timepoint": "03:36:55"
+    }
+  ],
+  "Prokto_3_clip_0993_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        681.0,
+        275.15999999999997,
+        556.0,
+        523.52
+      ],
+      "timepoint": "01:22:47"
+    }
+  ],
+  "Sigma_6_clip_2526_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        409.955,
+        347.585,
+        320.33,
+        384.83
+      ],
+      "timepoint": "03:30:30"
+    }
+  ],
+  "Rektum_7_clip_2064_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        575.72,
+        265.59,
+        271.36,
+        155.22
+      ],
+      "timepoint": "02:52:04"
+    }
+  ],
+  "Rektum_5_clip_2205_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        459.59999999999997,
+        229.0,
+        155.4,
+        52.4
+      ],
+      "timepoint": "03:03:45"
+    }
+  ],
+  "Rektum_4_clip_0515_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        312.815,
+        429.585,
+        91.83,
+        69.67
+      ],
+      "timepoint": "00:42:55"
+    }
+  ],
+  "Sigma_8_clip_1550_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        599.98,
+        89.44999999999999,
+        120.32,
+        113.6
+      ],
+      "timepoint": "02:09:12"
+    }
+  ],
+  "Rektum_3_clip_1711_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        430.175,
+        431.70500000000004,
+        271.99,
+        133.47
+      ],
+      "timepoint": "02:22:35"
+    }
+  ],
+  "Rektum_8_clip_0471_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        408.62,
+        302.775,
+        74.2,
+        45.55
+      ],
+      "timepoint": "00:39:17"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        441.275,
+        299.53,
+        59.75,
+        37.78
+      ],
+      "timepoint": "00:39:17"
+    }
+  ],
+  "Rektum_7_clip_2063_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        488.80999999999995,
+        199.865,
+        267.46,
+        133.47
+      ],
+      "timepoint": "02:51:58"
+    }
+  ],
+  "Rektum_9_clip_1297_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        338.495,
+        299.05,
+        239.61,
+        331.5
+      ],
+      "timepoint": "01:48:05"
+    }
+  ],
+  "Sigma_1_clip_0090_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        297.495,
+        147.655,
+        65.25,
+        152.15
+      ],
+      "timepoint": "00:07:32"
+    }
+  ],
+  "Prokto_5_clip_0651_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        519.6,
+        261.65,
+        318.6,
+        380.1
+      ],
+      "timepoint": "00:54:15"
+    }
+  ],
+  "Sigma_5_clip_0567_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        262.96500000000003,
+        308.22,
+        405.97,
+        352.04
+      ],
+      "timepoint": "00:47:19"
+    }
+  ],
+  "Sigma_5_clip_0493_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        329.05,
+        269.55,
+        538.36,
+        539.1
+      ],
+      "timepoint": "00:41:09"
+    }
+  ],
+  "Sigma_9_clip_3159_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        338.15999999999997,
+        141.07999999999998,
+        149.26,
+        106.34
+      ],
+      "timepoint": "04:23:17"
+    }
+  ],
+  "Prokto_3_clip_1932_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        503.4,
+        406.915,
+        119.64,
+        23.71
+      ],
+      "timepoint": "02:41:01"
+    }
+  ],
+  "Prokto_2_clip_2787_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        194.655,
+        465.325,
+        70.23,
+        144.75
+      ],
+      "timepoint": "03:52:15"
+    }
+  ],
+  "Prokto_9_clip_2349_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        590.88,
+        128.97,
+        292.64,
+        78.1
+      ],
+      "timepoint": "03:15:47"
+    }
+  ],
+  "Sigma_5_clip_0496_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        287.85,
+        238.15,
+        453.32,
+        476.3
+      ],
+      "timepoint": "00:41:21"
+    }
+  ],
+  "Prokto_2_clip_2730_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        146.67,
+        358.145,
+        224.26,
+        269.89
+      ],
+      "timepoint": "03:47:33"
+    }
+  ],
+  "Sigma_1_clip_0320_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        354.85,
+        397.55,
+        367.3,
+        279.1
+      ],
+      "timepoint": "00:26:42"
+    }
+  ],
+  "Rektum_8_clip_0398_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        409.115,
+        169.57000000000002,
+        221.21,
+        74.48
+      ],
+      "timepoint": "00:33:12"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        410.21000000000004,
+        231.13500000000002,
+        193.18,
+        87.67
+      ],
+      "timepoint": "00:33:12"
+    }
+  ],
+  "Sigma_8_clip_1541_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        337.815,
+        83.36,
+        173.15,
+        63.84
+      ],
+      "timepoint": "02:08:25"
+    }
+  ],
+  "Sigma_8_clip_0355_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        455.45,
+        269.25,
+        581.3,
+        535.7
+      ],
+      "timepoint": "00:29:35"
+    }
+  ],
+  "Rektum_5_clip_2230_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        357.71,
+        209.33499999999998,
+        104.42,
+        99.65
+      ],
+      "timepoint": "03:05:50"
+    }
+  ],
+  "Sigma_6_clip_2525_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        391.635,
+        292.34,
+        498.49,
+        241.84
+      ],
+      "timepoint": "03:30:25"
+    }
+  ],
+  "Prokto_4_clip_2073_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        637.35,
+        438.55,
+        296.6,
+        48.5
+      ],
+      "timepoint": "02:52:48"
+    }
+  ],
+  "Prokto_3_clip_1195_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        254.675,
+        192.975,
+        47.35,
+        31.05
+      ],
+      "timepoint": "01:39:38"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        585.01,
+        444.235,
+        15.5,
+        25.53
+      ],
+      "timepoint": "01:39:38"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        489.14,
+        245.815,
+        121.94,
+        189.07
+      ],
+      "timepoint": "01:39:38"
+    }
+  ],
+  "Prokto_7_clip_0489_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        266.115,
+        325.78499999999997,
+        142.53,
+        157.31
+      ],
+      "timepoint": "00:40:45"
+    }
+  ],
+  "Sigma_9_clip_3127_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        575.155,
+        447.255,
+        71.25,
+        103.93
+      ],
+      "timepoint": "04:20:37"
+    }
+  ],
+  "Prokto_4_clip_0036_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        485.695,
+        354.23,
+        97.41,
+        62.86
+      ],
+      "timepoint": "00:03:04"
+    }
+  ],
+  "Prokto_7_clip_1907_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        613.75,
+        391.90500000000003,
+        167.5,
+        221.61
+      ],
+      "timepoint": "02:38:59"
+    }
+  ],
+  "Prokto_3_clip_2184_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        602.79,
+        418.485,
+        419.62,
+        237.77
+      ],
+      "timepoint": "03:02:00"
+    }
+  ],
+  "Prokto_8_clip_0043_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        446.695,
+        174.475,
+        40.41,
+        79.25
+      ],
+      "timepoint": "00:03:36"
+    }
+  ],
+  "Rektum_3_clip_0306_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        616.985,
+        246.325,
+        176.45,
+        318.57
+      ],
+      "timepoint": "00:25:33"
+    }
+  ],
+  "Prokto_3_clip_0428_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        445.285,
+        199.49,
+        843.61,
+        398.98
+      ],
+      "timepoint": "00:35:42"
+    }
+  ],
+  "Rektum_9_clip_2703_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        395.4,
+        146.54999999999998,
+        139.8,
+        292.7
+      ],
+      "timepoint": "03:45:17"
+    }
+  ],
+  "Rektum_6_clip_3204_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        462.0,
+        175.29500000000002,
+        502.66,
+        344.61
+      ],
+      "timepoint": "04:27:01"
+    }
+  ],
+  "Sigma_8_clip_1729_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        595.825,
+        338.57,
+        306.49,
+        84.04
+      ],
+      "timepoint": "02:24:06"
+    }
+  ],
+  "Rektum_7_clip_2172_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        282.59000000000003,
+        189.625,
+        339.88,
+        248.77
+      ],
+      "timepoint": "03:01:04"
+    }
+  ],
+  "Rektum_9_clip_2710_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        307.255,
+        162.185,
+        99.45,
+        324.35
+      ],
+      "timepoint": "03:45:54"
+    }
+  ],
+  "Rektum_5_clip_0920_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        555.0,
+        339.0,
+        179.4,
+        188.2
+      ],
+      "timepoint": "01:16:41"
+    }
+  ],
+  "Rektum_3_clip_1712_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        641.435,
+        361.15999999999997,
+        299.11,
+        132.2
+      ],
+      "timepoint": "02:22:44"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        309.46500000000003,
+        348.61,
+        169.87,
+        353.76
+      ],
+      "timepoint": "02:22:44"
+    }
+  ],
+  "Sigma_9_clip_1449_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        421.75,
+        268.6,
+        467.7,
+        537.2
+      ],
+      "timepoint": "02:00:47"
+    }
+  ],
+  "Sigma_9_clip_0943_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        436.575,
+        503.205,
+        193.65,
+        67.79
+      ],
+      "timepoint": "01:18:39"
+    }
+  ],
+  "Rektum_9_clip_1311_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        423.45000000000005,
+        405.4,
+        271.7,
+        264.8
+      ],
+      "timepoint": "01:49:16"
+    }
+  ],
+  "Rektum_9_clip_1160_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        585.15,
+        382.015,
+        231.3,
+        310.97
+      ],
+      "timepoint": "01:36:43"
+    }
+  ],
+  "Rektum_3_clip_1737_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        535.96,
+        374.38,
+        440.06,
+        331.24
+      ],
+      "timepoint": "02:24:46"
+    }
+  ],
+  "Rektum_5_clip_0543_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        399.29999999999995,
+        218.805,
+        168.2,
+        62.19
+      ],
+      "timepoint": "00:45:18"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        421.23,
+        186.135,
+        157.96,
+        47.75
+      ],
+      "timepoint": "00:45:18"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        441.11,
+        253.54,
+        80.58,
+        19.58
+      ],
+      "timepoint": "00:45:18"
+    }
+  ],
+  "Sigma_7_clip_1889_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        749.9649999999999,
+        411.125,
+        325.13,
+        224.75
+      ],
+      "timepoint": "02:37:26"
+    }
+  ],
+  "Prokto_8_clip_1960_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        463.675,
+        397.70000000000005,
+        256.27,
+        284.6
+      ],
+      "timepoint": "02:43:20"
+    }
+  ],
+  "Sigma_8_clip_1461_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        399.805,
+        213.155,
+        133.35,
+        44.31
+      ],
+      "timepoint": "02:01:47"
+    }
+  ],
+  "Sigma_2_clip_0300_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        272.05,
+        150.41000000000003,
+        34.3,
+        11.22
+      ],
+      "timepoint": "00:25:03"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        281.15999999999997,
+        180.155,
+        51.3,
+        17.31
+      ],
+      "timepoint": "00:25:03"
+    }
+  ],
+  "Sigma_3_clip_2633_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        216.86,
+        318.78,
+        433.72,
+        117.88
+      ],
+      "timepoint": "03:39:26"
+    }
+  ],
+  "Sigma_5_clip_0557_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        357.39,
+        133.425,
+        363.74,
+        266.85
+      ],
+      "timepoint": "00:46:28"
+    }
+  ],
+  "Rektum_7_clip_2995_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        380.315,
+        378.61,
+        503.63,
+        314.18
+      ],
+      "timepoint": "04:09:38"
+    }
+  ],
+  "Prokto_4_clip_1108_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        335.575,
+        361.245,
+        65.17,
+        42.29
+      ],
+      "timepoint": "01:32:20"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        283.13,
+        369.145,
+        44.74,
+        32.29
+      ],
+      "timepoint": "01:32:20"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        273.40999999999997,
+        456.39,
+        103.04,
+        163.82
+      ],
+      "timepoint": "01:32:20"
+    }
+  ],
+  "Prokto_5_clip_2336_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        398.61,
+        258.585,
+        427.78,
+        321.03
+      ],
+      "timepoint": "03:14:42"
+    }
+  ],
+  "Rektum_2_clip_2716_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        444.79999999999995,
+        342.505,
+        305.2,
+        388.99
+      ],
+      "timepoint": "03:46:23"
+    }
+  ],
+  "Rektum_9_clip_0598_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        312.62,
+        265.55,
+        75.56,
+        123.1
+      ],
+      "timepoint": "00:49:51"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        398.39500000000004,
+        219.245,
+        75.59,
+        147.53
+      ],
+      "timepoint": "00:49:51"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        338.65,
+        249.52,
+        65.02,
+        135.74
+      ],
+      "timepoint": "00:49:51"
+    }
+  ],
+  "Rektum_8_clip_0845_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        128.5,
+        190.545,
+        257.0,
+        68.89
+      ],
+      "timepoint": "01:10:28"
+    }
+  ],
+  "Sigma_9_clip_3147_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        530.165,
+        42.35,
+        208.45,
+        84.7
+      ],
+      "timepoint": "04:22:18"
+    }
+  ],
+  "Prokto_5_clip_2333_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        329.375,
+        344.73,
+        329.85,
+        321.34
+      ],
+      "timepoint": "03:14:29"
+    }
+  ],
+  "Rektum_8_clip_0383_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        164.555,
+        448.89500000000004,
+        64.89,
+        54.59
+      ],
+      "timepoint": "00:31:55"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        169.965,
+        419.28499999999997,
+        53.13,
+        18.81
+      ],
+      "timepoint": "00:31:55"
+    }
+  ],
+  "Sigma_5_clip_0498_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        290.06,
+        255.85,
+        458.48,
+        511.7
+      ],
+      "timepoint": "00:41:31"
+    }
+  ],
+  "Rektum_2_clip_2598_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        416.46999999999997,
+        128.32,
+        194.04,
+        256.64
+      ],
+      "timepoint": "03:36:33"
+    }
+  ],
+  "Rektum_2_clip_1339_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        382.77,
+        305.325,
+        50.44,
+        24.39
+      ],
+      "timepoint": "01:51:39"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        470.9,
+        477.86499999999995,
+        20.14,
+        39.17
+      ],
+      "timepoint": "01:51:39"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        584.27,
+        322.56,
+        32.02,
+        27.28
+      ],
+      "timepoint": "01:51:39"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        727.485,
+        240.97,
+        50.31,
+        47.5
+      ],
+      "timepoint": "01:51:39"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        309.67,
+        337.465,
+        45.08,
+        34.89
+      ],
+      "timepoint": "01:51:39"
+    },
+    {
+      "class": "Clip",
+      "instance": 6,
+      "bbox": [
+        388.67999999999995,
+        320.975,
+        49.18,
+        27.23
+      ],
+      "timepoint": "01:51:39"
+    },
+    {
+      "class": "Clip",
+      "instance": 7,
+      "bbox": [
+        383.55,
+        280.425,
+        35.74,
+        40.45
+      ],
+      "timepoint": "01:51:39"
+    }
+  ],
+  "Rektum_1_clip_2965_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        489.525,
+        179.315,
+        57.63,
+        152.81
+      ],
+      "timepoint": "04:07:07"
+    }
+  ],
+  "Sigma_4_clip_0648_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        532.4,
+        266.39,
+        124.0,
+        342.16
+      ],
+      "timepoint": "00:54:03"
+    }
+  ],
+  "Prokto_9_clip_2499_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        419.35,
+        188.295,
+        471.6,
+        256.07
+      ],
+      "timepoint": "03:28:19"
+    }
+  ],
+  "Rektum_7_clip_2317_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        388.905,
+        388.79999999999995,
+        434.27,
+        302.4
+      ],
+      "timepoint": "03:13:07"
+    }
+  ],
+  "Rektum_1_clip_3365_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        384.65000000000003,
+        481.465,
+        21.1,
+        96.27
+      ],
+      "timepoint": "04:40:27"
+    }
+  ],
+  "Prokto_7_clip_1702_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        515.875,
+        216.92000000000002,
+        20.77,
+        117.72
+      ],
+      "timepoint": "02:21:53"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        579.745,
+        413.64500000000004,
+        74.35,
+        115.83
+      ],
+      "timepoint": "02:21:53"
+    }
+  ],
+  "Sigma_8_clip_1719_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        524.0649999999999,
+        130.61,
+        451.07,
+        261.22
+      ],
+      "timepoint": "02:23:17"
+    }
+  ],
+  "Prokto_8_clip_1870_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        464.105,
+        421.85999999999996,
+        94.19,
+        63.3
+      ],
+      "timepoint": "02:35:50"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        409.79999999999995,
+        387.91999999999996,
+        168.2,
+        299.56
+      ],
+      "timepoint": "02:35:50"
+    }
+  ],
+  "Rektum_9_clip_2699_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        397.59499999999997,
+        149.265,
+        184.89,
+        298.53
+      ],
+      "timepoint": "03:44:56"
+    }
+  ],
+  "Rektum_2_clip_1339_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        541.515,
+        389.69500000000005,
+        14.27,
+        31.57
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        505.39,
+        381.495,
+        19.12,
+        23.07
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        422.5,
+        432.79999999999995,
+        31.3,
+        28.54
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        482.34,
+        431.01,
+        24.62,
+        22.48
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        409.735,
+        128.085,
+        56.49,
+        64.21
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 6,
+      "bbox": [
+        324.425,
+        291.58500000000004,
+        19.91,
+        39.83
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 7,
+      "bbox": [
+        514.125,
+        402.03,
+        19.73,
+        10.66
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 8,
+      "bbox": [
+        448.88,
+        416.155,
+        18.24,
+        17.51
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 9,
+      "bbox": [
+        518.455,
+        418.065,
+        31.29,
+        16.55
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 10,
+      "bbox": [
+        454.03999999999996,
+        437.27,
+        10.04,
+        32.18
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 11,
+      "bbox": [
+        655.365,
+        419.90000000000003,
+        17.91,
+        20.34
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 12,
+      "bbox": [
+        662.955,
+        408.96999999999997,
+        12.45,
+        10.02
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 13,
+      "bbox": [
+        523.4200000000001,
+        379.805,
+        20.18,
+        11.11
+      ],
+      "timepoint": "01:51:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 14,
+      "bbox": [
+        478.97499999999997,
+        410.53499999999997,
+        17.91,
+        13.15
+      ],
+      "timepoint": "01:51:35"
+    }
+  ],
+  "Rektum_7_clip_2174_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        380.47,
+        277.995,
+        323.14,
+        339.93
+      ],
+      "timepoint": "03:01:13"
+    }
+  ],
+  "Prokto_8_clip_0024_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        486.87,
+        284.725,
+        129.58,
+        145.53
+      ],
+      "timepoint": "00:02:01"
+    }
+  ],
+  "Rektum_3_clip_1731_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        504.335,
+        196.89999999999998,
+        286.87,
+        215.6
+      ],
+      "timepoint": "02:24:16"
+    }
+  ],
+  "Prokto_4_clip_1772_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        464.445,
+        282.195,
+        509.31,
+        256.33
+      ],
+      "timepoint": "02:27:44"
+    }
+  ],
+  "Sigma_9_clip_1935_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        482.95,
+        498.7,
+        511.7,
+        77.0
+      ],
+      "timepoint": "02:41:15"
+    }
+  ],
+  "Rektum_3_clip_2284_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        472.305,
+        315.16,
+        570.39,
+        334.72
+      ],
+      "timepoint": "03:10:24"
+    }
+  ],
+  "Prokto_3_clip_0601_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        229.55,
+        175.07,
+        318.1,
+        350.14
+      ],
+      "timepoint": "00:50:07"
+    }
+  ],
+  "Rektum_1_clip_2945_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        322.28,
+        202.075,
+        308.2,
+        208.55
+      ],
+      "timepoint": "04:05:29"
+    }
+  ],
+  "Prokto_3_clip_0762_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        225.815,
+        281.15999999999997,
+        371.95,
+        331.12
+      ],
+      "timepoint": "01:03:33"
+    }
+  ],
+  "Rektum_4_clip_0189_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        323.7,
+        66.815,
+        149.4,
+        133.63
+      ],
+      "timepoint": "00:15:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        284.70500000000004,
+        60.65,
+        116.19,
+        121.3
+      ],
+      "timepoint": "00:15:48"
+    }
+  ],
+  "Prokto_9_clip_2356_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        564.19,
+        416.79499999999996,
+        225.42,
+        246.41
+      ],
+      "timepoint": "03:16:20"
+    }
+  ],
+  "Prokto_4_clip_1773_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        428.235,
+        281.15999999999997,
+        518.19,
+        264.68
+      ],
+      "timepoint": "02:27:45"
+    }
+  ],
+  "Sigma_5_clip_0558_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        338.71500000000003,
+        137.2,
+        421.85,
+        274.4
+      ],
+      "timepoint": "00:46:31"
+    }
+  ],
+  "Prokto_4_clip_0045_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        575.9150000000001,
+        51.555,
+        43.41,
+        39.57
+      ],
+      "timepoint": "00:03:45"
+    }
+  ],
+  "Sigma_5_clip_0333_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        469.90000000000003,
+        454.18,
+        63.84,
+        130.1
+      ],
+      "timepoint": "00:27:49"
+    }
+  ],
+  "Rektum_3_clip_1173_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        484.03999999999996,
+        253.52999999999997,
+        676.68,
+        229.42
+      ],
+      "timepoint": "01:37:47"
+    }
+  ],
+  "Prokto_9_clip_1308_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        464.65,
+        222.45000000000002,
+        263.3,
+        282.1
+      ],
+      "timepoint": "01:49:02"
+    }
+  ],
+  "Rektum_3_clip_1711_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        430.38,
+        428.59999999999997,
+        319.14,
+        130.4
+      ],
+      "timepoint": "02:22:39"
+    }
+  ],
+  "Rektum_3_clip_1731_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        568.64,
+        86.58,
+        277.82,
+        173.16
+      ],
+      "timepoint": "02:24:19"
+    }
+  ],
+  "Rektum_3_clip_1746_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        492.51,
+        265.04,
+        554.66,
+        530.08
+      ],
+      "timepoint": "02:25:31"
+    }
+  ],
+  "Sigma_5_clip_0559_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        317.555,
+        187.2,
+        504.39,
+        374.4
+      ],
+      "timepoint": "00:46:36"
+    }
+  ],
+  "Rektum_5_clip_0755_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        254.85000000000002,
+        395.85,
+        314.1,
+        282.9
+      ],
+      "timepoint": "01:02:56"
+    }
+  ],
+  "Prokto_4_clip_2077_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        631.1600000000001,
+        298.545,
+        372.88,
+        104.91
+      ],
+      "timepoint": "02:53:06"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        633.0050000000001,
+        423.81,
+        214.87,
+        227.26
+      ],
+      "timepoint": "02:53:06"
+    }
+  ],
+  "Prokto_2_clip_2729_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        299.72,
+        392.57,
+        309.46,
+        294.86
+      ],
+      "timepoint": "03:47:28"
+    }
+  ],
+  "Rektum_7_clip_2999_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        464.65,
+        229.93,
+        388.3,
+        270.44
+      ],
+      "timepoint": "04:09:56"
+    }
+  ],
+  "Rektum_4_clip_0474_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        213.18,
+        94.14,
+        18.44,
+        22.72
+      ],
+      "timepoint": "00:39:32"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        417.7,
+        251.085,
+        19.0,
+        35.37
+      ],
+      "timepoint": "00:39:32"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        352.505,
+        262.92,
+        26.99,
+        61.4
+      ],
+      "timepoint": "00:39:32"
+    }
+  ],
+  "Prokto_7_clip_1723_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        449.80499999999995,
+        434.885,
+        52.55,
+        132.89
+      ],
+      "timepoint": "02:23:36"
+    }
+  ],
+  "Rektum_2_clip_2737_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        558.09,
+        203.305,
+        238.92,
+        331.57
+      ],
+      "timepoint": "03:48:06"
+    }
+  ],
+  "Rektum_7_clip_2134_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        588.68,
+        164.68,
+        100.84,
+        284.44
+      ],
+      "timepoint": "02:57:54"
+    }
+  ],
+  "Rektum_3_clip_1723_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        591.72,
+        413.28,
+        257.42,
+        246.7
+      ],
+      "timepoint": "02:23:35"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        284.08000000000004,
+        211.92,
+        254.5,
+        358.84
+      ],
+      "timepoint": "02:23:35"
+    }
+  ],
+  "Rektum_8_clip_0473_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        133.615,
+        473.055,
+        102.01,
+        62.99
+      ],
+      "timepoint": "00:39:26"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        171.20499999999998,
+        452.325,
+        93.47,
+        54.87
+      ],
+      "timepoint": "00:39:26"
+    }
+  ],
+  "Sigma_9_clip_0810_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        468.25,
+        295.03,
+        692.7,
+        484.34
+      ],
+      "timepoint": "01:07:31"
+    }
+  ],
+  "Rektum_3_clip_2288_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        452.14,
+        459.065,
+        308.72,
+        157.47
+      ],
+      "timepoint": "03:10:42"
+    }
+  ],
+  "Prokto_7_clip_1725_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        719.215,
+        251.67000000000002,
+        72.23,
+        133.74
+      ],
+      "timepoint": "02:23:48"
+    }
+  ],
+  "Sigma_5_clip_0494_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        320.08,
+        269.57,
+        520.56,
+        539.14
+      ],
+      "timepoint": "00:41:10"
+    }
+  ],
+  "Rektum_2_clip_1355_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        695.4549999999999,
+        336.14,
+        23.09,
+        19.16
+      ],
+      "timepoint": "01:52:56"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        694.795,
+        317.775,
+        16.53,
+        14.43
+      ],
+      "timepoint": "01:52:56"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        626.11,
+        306.815,
+        29.78,
+        19.73
+      ],
+      "timepoint": "01:52:56"
+    }
+  ],
+  "Sigma_9_clip_1909_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        234.45999999999998,
+        446.08,
+        205.28,
+        181.64
+      ],
+      "timepoint": "02:39:09"
+    }
+  ],
+  "Rektum_1_clip_0674_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        509.095,
+        55.925,
+        75.09,
+        57.13
+      ],
+      "timepoint": "00:56:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        530.37,
+        31.155,
+        77.26,
+        57.89
+      ],
+      "timepoint": "00:56:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        280.55,
+        349.235,
+        165.18,
+        163.49
+      ],
+      "timepoint": "00:56:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        404.03999999999996,
+        329.20500000000004,
+        63.44,
+        72.81
+      ],
+      "timepoint": "00:56:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        327.95500000000004,
+        336.48,
+        101.97,
+        119.46
+      ],
+      "timepoint": "00:56:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 6,
+      "bbox": [
+        283.59000000000003,
+        392.49,
+        120.02,
+        132.82
+      ],
+      "timepoint": "00:56:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 7,
+      "bbox": [
+        472.995,
+        142.005,
+        126.49,
+        81.75
+      ],
+      "timepoint": "00:56:14"
+    }
+  ],
+  "Rektum_3_clip_1753_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        372.395,
+        306.4,
+        315.89,
+        467.2
+      ],
+      "timepoint": "02:26:08"
+    }
+  ],
+  "Rektum_2_clip_2704_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        302.185,
+        403.495,
+        142.37,
+        273.01
+      ],
+      "timepoint": "03:45:23"
+    }
+  ],
+  "Rektum_8_clip_1941_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        507.66,
+        484.96000000000004,
+        58.32,
+        107.22
+      ],
+      "timepoint": "02:41:48"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        543.765,
+        485.47,
+        63.93,
+        103.86
+      ],
+      "timepoint": "02:41:48"
+    }
+  ],
+  "Prokto_8_clip_1892_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        456.86,
+        383.65999999999997,
+        320.2,
+        308.48
+      ],
+      "timepoint": "02:37:42"
+    }
+  ],
+  "Rektum_3_clip_0881_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        654.2,
+        291.375,
+        299.08,
+        197.39
+      ],
+      "timepoint": "01:13:25"
+    }
+  ],
+  "Rektum_1_clip_0695_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        172.635,
+        513.885,
+        44.07,
+        48.97
+      ],
+      "timepoint": "00:57:58"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        641.62,
+        387.43,
+        417.44,
+        300.1
+      ],
+      "timepoint": "00:57:58"
+    }
+  ],
+  "Rektum_3_clip_1025_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        372.365,
+        369.775,
+        108.07,
+        336.11
+      ],
+      "timepoint": "01:25:29"
+    }
+  ],
+  "Rektum_5_clip_2235_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        210.32,
+        408.495,
+        73.74,
+        184.01
+      ],
+      "timepoint": "03:06:18"
+    }
+  ],
+  "Rektum_7_clip_2999_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        471.14,
+        227.565,
+        393.92,
+        269.73
+      ],
+      "timepoint": "04:09:57"
+    }
+  ],
+  "Sigma_5_clip_0560_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        307.38,
+        155.14,
+        494.16,
+        310.28
+      ],
+      "timepoint": "00:46:44"
+    }
+  ],
+  "Rektum_5_clip_2203_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        445.02,
+        321.65,
+        106.42,
+        104.14
+      ],
+      "timepoint": "03:03:38"
+    }
+  ],
+  "Rektum_7_clip_2153_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        662.9,
+        331.65,
+        397.2,
+        275.3
+      ],
+      "timepoint": "02:59:26"
+    }
+  ],
+  "Sigma_6_clip_2525_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        347.32,
+        288.31,
+        383.74,
+        372.62
+      ],
+      "timepoint": "03:30:28"
+    }
+  ],
+  "Rektum_3_clip_1710_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        420.095,
+        389.945,
+        256.91,
+        133.71
+      ],
+      "timepoint": "02:22:31"
+    }
+  ],
+  "Rektum_2_clip_0731_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        566.35,
+        282.6,
+        179.9,
+        270.6
+      ],
+      "timepoint": "01:00:57"
+    }
+  ],
+  "Prokto_9_clip_1311_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        489.685,
+        215.04000000000002,
+        301.03,
+        323.72
+      ],
+      "timepoint": "01:49:18"
+    }
+  ],
+  "Sigma_4_clip_0823_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        423.92,
+        128.675,
+        46.6,
+        90.29
+      ],
+      "timepoint": "01:08:38"
+    }
+  ],
+  "Sigma_5_clip_0560_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        303.28,
+        140.64,
+        484.62,
+        281.28
+      ],
+      "timepoint": "00:46:42"
+    }
+  ],
+  "Rektum_1_clip_2941_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        215.5,
+        352.51,
+        278.36,
+        132.12
+      ],
+      "timepoint": "04:05:06"
+    }
+  ],
+  "Sigma_9_clip_1480_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        224.0,
+        354.95000000000005,
+        207.6,
+        364.1
+      ],
+      "timepoint": "02:03:22"
+    }
+  ],
+  "Sigma_5_clip_1281_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        371.885,
+        123.81,
+        44.09,
+        71.28
+      ],
+      "timepoint": "01:46:49"
+    }
+  ],
+  "Rektum_1_clip_2846_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        415.35499999999996,
+        291.6,
+        245.29,
+        491.6
+      ],
+      "timepoint": "03:57:13"
+    }
+  ],
+  "Rektum_3_clip_2277_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        458.91999999999996,
+        393.825,
+        650.26,
+        154.35
+      ],
+      "timepoint": "03:09:46"
+    }
+  ],
+  "Prokto_4_clip_2077_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        635.8,
+        284.75,
+        364.8,
+        123.9
+      ],
+      "timepoint": "02:53:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        788.635,
+        315.28999999999996,
+        16.37,
+        42.28
+      ],
+      "timepoint": "02:53:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        756.02,
+        291.425,
+        27.24,
+        28.39
+      ],
+      "timepoint": "02:53:05"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        650.64,
+        402.57,
+        228.32,
+        227.72
+      ],
+      "timepoint": "02:53:05"
+    }
+  ],
+  "Sigma_5_clip_0568_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        315.45,
+        323.83500000000004,
+        449.42,
+        312.73
+      ],
+      "timepoint": "00:47:21"
+    }
+  ],
+  "Rektum_4_clip_1775_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        238.70999999999998,
+        352.69,
+        122.28,
+        355.64
+      ],
+      "timepoint": "02:27:55"
+    }
+  ],
+  "Prokto_3_clip_0857_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        462.72999999999996,
+        268.5,
+        674.06,
+        537.0
+      ],
+      "timepoint": "01:11:25"
+    }
+  ],
+  "Rektum_9_clip_0718_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        453.3,
+        331.15,
+        356.6,
+        411.7
+      ],
+      "timepoint": "00:59:52"
+    }
+  ],
+  "Prokto_7_clip_1960_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        624.005,
+        224.375,
+        354.93,
+        251.13
+      ],
+      "timepoint": "02:43:23"
+    }
+  ],
+  "Prokto_8_clip_1844_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        435.16999999999996,
+        353.565,
+        352.96,
+        372.87
+      ],
+      "timepoint": "02:33:40"
+    }
+  ],
+  "Rektum_4_clip_0398_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        366.15,
+        103.39999999999999,
+        201.9,
+        185.6
+      ],
+      "timepoint": "00:33:12"
+    }
+  ],
+  "Rektum_3_clip_1893_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        572.6,
+        435.5,
+        358.6,
+        203.2
+      ],
+      "timepoint": "02:37:47"
+    }
+  ],
+  "Prokto_7_clip_0650_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        465.105,
+        279.67,
+        46.57,
+        33.38
+      ],
+      "timepoint": "00:54:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        490.735,
+        372.5,
+        72.27,
+        12.24
+      ],
+      "timepoint": "00:54:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        536.77,
+        404.29999999999995,
+        70.54,
+        29.8
+      ],
+      "timepoint": "00:54:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        535.265,
+        419.27500000000003,
+        65.19,
+        26.09
+      ],
+      "timepoint": "00:54:14"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        488.15999999999997,
+        355.735,
+        58.26,
+        13.47
+      ],
+      "timepoint": "00:54:14"
+    }
+  ],
+  "Rektum_4_clip_1342_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        320.3,
+        277.35,
+        203.6,
+        366.7
+      ],
+      "timepoint": "01:51:50"
+    }
+  ],
+  "Rektum_9_clip_0599_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        363.59999999999997,
+        239.445,
+        55.68,
+        134.53
+      ],
+      "timepoint": "00:49:55"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        433.31,
+        215.27499999999998,
+        74.78,
+        150.35
+      ],
+      "timepoint": "00:49:55"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        341.85999999999996,
+        256.92,
+        78.04,
+        133.72
+      ],
+      "timepoint": "00:49:55"
+    }
+  ],
+  "Sigma_5_clip_0496_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        332.98499999999996,
+        234.45,
+        512.43,
+        468.9
+      ],
+      "timepoint": "00:41:24"
+    }
+  ],
+  "Rektum_9_clip_0266_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        348.21,
+        280.42499999999995,
+        53.66,
+        70.07
+      ],
+      "timepoint": "00:22:12"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        297.45,
+        367.41999999999996,
+        37.62,
+        30.56
+      ],
+      "timepoint": "00:22:12"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        367.02,
+        312.4,
+        53.66,
+        71.0
+      ],
+      "timepoint": "00:22:12"
+    }
+  ],
+  "Sigma_3_clip_1062_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        599.525,
+        268.6,
+        707.35,
+        537.2
+      ],
+      "timepoint": "01:28:30"
+    }
+  ],
+  "Rektum_1_clip_2974_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        252.995,
+        57.660000000000004,
+        42.63,
+        80.26
+      ],
+      "timepoint": "04:07:52"
+    }
+  ],
+  "Prokto_2_clip_2720_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        700.385,
+        408.30500000000006,
+        236.23,
+        258.41
+      ],
+      "timepoint": "03:46:42"
+    }
+  ],
+  "Sigma_4_clip_1757_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        533.825,
+        142.645,
+        637.95,
+        182.03
+      ],
+      "timepoint": "02:26:27"
+    }
+  ],
+  "Sigma_8_clip_1579_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        590.58,
+        188.255,
+        177.96,
+        234.51
+      ],
+      "timepoint": "02:11:37"
+    }
+  ],
+  "Sigma_5_clip_0486_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        629.79,
+        201.08999999999997,
+        488.02,
+        142.98
+      ],
+      "timepoint": "00:40:33"
+    }
+  ],
+  "Rektum_4_clip_0480_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        462.52500000000003,
+        337.05,
+        69.83,
+        74.38
+      ],
+      "timepoint": "00:40:02"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        415.17,
+        353.91499999999996,
+        38.26,
+        97.17
+      ],
+      "timepoint": "00:40:02"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        386.92999999999995,
+        363.615,
+        40.68,
+        98.37
+      ],
+      "timepoint": "00:40:02"
+    }
+  ],
+  "Sigma_4_clip_1751_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        456.3,
+        192.37,
+        590.34,
+        148.34
+      ],
+      "timepoint": "02:25:58"
+    }
+  ],
+  "Sigma_9_clip_1458_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        410.1,
+        296.0,
+        578.6,
+        482.2
+      ],
+      "timepoint": "02:01:30"
+    }
+  ],
+  "Rektum_7_clip_2548_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        420.295,
+        289.09999999999997,
+        301.99,
+        500.4
+      ],
+      "timepoint": "03:32:23"
+    }
+  ],
+  "Prokto_2_clip_2724_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        453.66999999999996,
+        369.14,
+        369.42,
+        336.92
+      ],
+      "timepoint": "03:47:01"
+    }
+  ],
+  "Prokto_3_clip_1119_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        169.865,
+        371.575,
+        182.87,
+        234.09
+      ],
+      "timepoint": "01:33:15"
+    }
+  ],
+  "Prokto_8_clip_1196_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        476.2,
+        244.9,
+        155.6,
+        217.0
+      ],
+      "timepoint": "01:39:42"
+    }
+  ],
+  "Prokto_5_clip_0699_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        616.45,
+        362.495,
+        66.9,
+        28.61
+      ],
+      "timepoint": "00:58:18"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        623.0550000000001,
+        36.129999999999995,
+        16.47,
+        11.78
+      ],
+      "timepoint": "00:58:18"
+    }
+  ],
+  "Sigma_10_clip_0439_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        250.5,
+        352.245,
+        92.26,
+        59.29
+      ],
+      "timepoint": "00:36:35"
+    }
+  ],
+  "Prokto_3_clip_1192_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        119.005,
+        318.46,
+        116.61,
+        248.64
+      ],
+      "timepoint": "01:39:24"
+    }
+  ],
+  "Prokto_8_clip_1828_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        581.45,
+        205.66000000000003,
+        438.1,
+        182.24
+      ],
+      "timepoint": "02:32:21"
+    }
+  ],
+  "Prokto_7_clip_1699_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        447.995,
+        272.145,
+        108.51,
+        175.53
+      ],
+      "timepoint": "02:21:38"
+    }
+  ],
+  "Prokto_3_clip_0585_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        815.895,
+        82.215,
+        288.21,
+        164.43
+      ],
+      "timepoint": "00:48:46"
+    }
+  ],
+  "Rektum_7_clip_2065_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        576.775,
+        298.125,
+        263.05,
+        151.09
+      ],
+      "timepoint": "02:52:06"
+    }
+  ],
+  "Rektum_9_clip_2834_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        316.16999999999996,
+        75.15,
+        378.4,
+        150.3
+      ],
+      "timepoint": "03:56:11"
+    }
+  ],
+  "Rektum_3_clip_0293_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        612.55,
+        388.7,
+        393.7,
+        141.6
+      ],
+      "timepoint": "00:24:27"
+    }
+  ],
+  "Rektum_1_clip_0839_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        274.65,
+        427.79999999999995,
+        213.9,
+        218.2
+      ],
+      "timepoint": "01:09:55"
+    }
+  ],
+  "Rektum_1_clip_0663_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        189.01500000000001,
+        312.05,
+        126.29,
+        84.2
+      ],
+      "timepoint": "00:55:15"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        725.785,
+        286.57,
+        318.03,
+        241.5
+      ],
+      "timepoint": "00:55:15"
+    }
+  ],
+  "Rektum_3_clip_1717_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        675.045,
+        399.23499999999996,
+        302.55,
+        139.79
+      ],
+      "timepoint": "02:23:07"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        378.2,
+        418.075,
+        172.4,
+        243.85
+      ],
+      "timepoint": "02:23:07"
+    }
+  ],
+  "Rektum_2_clip_2655_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        278.895,
+        249.19,
+        184.99,
+        316.38
+      ],
+      "timepoint": "03:41:15"
+    }
+  ],
+  "Prokto_3_clip_2161_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        704.5699999999999,
+        185.41,
+        464.48,
+        370.82
+      ],
+      "timepoint": "03:00:08"
+    }
+  ],
+  "Rektum_6_clip_1348_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        418.25,
+        506.75,
+        215.3,
+        61.5
+      ],
+      "timepoint": "01:52:23"
+    }
+  ],
+  "Prokto_7_clip_1683_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        616.95,
+        265.1,
+        365.3,
+        149.2
+      ],
+      "timepoint": "02:20:19"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        569.65,
+        192.73000000000002,
+        138.72,
+        70.22
+      ],
+      "timepoint": "02:20:19"
+    },
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        408.92499999999995,
+        408.39,
+        153.55,
+        76.38
+      ],
+      "timepoint": "02:20:19"
+    }
+  ],
+  "Sigma_5_clip_1207_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        344.37,
+        196.66000000000003,
+        88.56,
+        150.46
+      ],
+      "timepoint": "01:40:39"
+    }
+  ],
+  "Rektum_2_clip_2700_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        473.78999999999996,
+        411.625,
+        77.54,
+        256.75
+      ],
+      "timepoint": "03:45:00"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        334.1,
+        299.885,
+        56.84,
+        71.87
+      ],
+      "timepoint": "03:45:00"
+    }
+  ],
+  "Rektum_1_clip_3167_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        733.575,
+        329.725,
+        68.65,
+        374.25
+      ],
+      "timepoint": "04:23:55"
+    }
+  ],
+  "Rektum_7_clip_2430_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        393.64,
+        177.465,
+        319.34,
+        246.29
+      ],
+      "timepoint": "03:22:31"
+    }
+  ],
+  "Prokto_6_clip_1616_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        189.94,
+        319.295,
+        133.32,
+        97.21
+      ],
+      "timepoint": "02:14:41"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        555.51,
+        454.82,
+        231.34,
+        167.92
+      ],
+      "timepoint": "02:14:41"
+    }
+  ],
+  "Rektum_3_clip_1157_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        540.55,
+        158.55,
+        482.9,
+        317.1
+      ],
+      "timepoint": "01:36:25"
+    }
+  ],
+  "Rektum_9_clip_2710_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        289.94,
+        165.35,
+        116.48,
+        330.7
+      ],
+      "timepoint": "03:45:51"
+    }
+  ],
+  "Rektum_7_clip_3084_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        351.28,
+        291.74,
+        447.9,
+        492.5
+      ],
+      "timepoint": "04:17:02"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 2,
+      "bbox": [
+        356.31,
+        130.43,
+        240.28,
+        80.94
+      ],
+      "timepoint": "04:17:02"
+    }
+  ],
+  "Rektum_2_clip_0742_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        665.96,
+        296.15,
+        206.68,
+        321.5
+      ],
+      "timepoint": "01:01:53"
+    }
+  ],
+  "Rektum_8_clip_1768_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        663.11,
+        343.71999999999997,
+        53.14,
+        92.16
+      ],
+      "timepoint": "02:27:20"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        629.4699999999999,
+        338.07,
+        58.34,
+        105.34
+      ],
+      "timepoint": "02:27:20"
+    }
+  ],
+  "Rektum_8_clip_0397_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        556.47,
+        235.29500000000002,
+        280.64,
+        61.53
+      ],
+      "timepoint": "00:33:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        477.32,
+        322.965,
+        152.88,
+        72.37
+      ],
+      "timepoint": "00:33:05"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        404.77,
+        197.37,
+        61.52,
+        48.04
+      ],
+      "timepoint": "00:33:05"
+    }
+  ],
+  "Sigma_8_clip_1517_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        357.425,
+        457.86,
+        123.87,
+        42.56
+      ],
+      "timepoint": "02:06:27"
+    }
+  ],
+  "Rektum_3_clip_1717_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        679.045,
+        435.51,
+        271.09,
+        208.98
+      ],
+      "timepoint": "02:23:05"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        366.94,
+        404.25,
+        188.88,
+        266.06
+      ],
+      "timepoint": "02:23:05"
+    }
+  ],
+  "Prokto_8_clip_1743_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        369.5,
+        380.35,
+        351.8,
+        313.7
+      ],
+      "timepoint": "02:25:18"
+    }
+  ],
+  "Rektum_5_clip_2169_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        349.645,
+        430.615,
+        378.67,
+        172.03
+      ],
+      "timepoint": "03:00:47"
+    }
+  ],
+  "Prokto_5_clip_2338_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        308.1,
+        340.93,
+        292.02,
+        222.74
+      ],
+      "timepoint": "03:14:51"
+    }
+  ],
+  "Sigma_5_clip_0499_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        286.81,
+        226.975,
+        455.88,
+        453.95
+      ],
+      "timepoint": "00:41:39"
+    }
+  ],
+  "Prokto_2_clip_2723_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        94.56,
+        390.48,
+        134.46,
+        134.46
+      ],
+      "timepoint": "03:46:56"
+    }
+  ],
+  "Sigma_9_clip_2454_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        444.545,
+        439.90999999999997,
+        54.87,
+        22.3
+      ],
+      "timepoint": "03:24:34"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        396.5,
+        436.44,
+        47.2,
+        12.32
+      ],
+      "timepoint": "03:24:34"
+    }
+  ],
+  "Rektum_1_clip_3015_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        238.695,
+        201.43,
+        61.61,
+        166.1
+      ],
+      "timepoint": "04:11:19"
+    }
+  ],
+  "Rektum_7_clip_2070_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        430.995,
+        283.0,
+        222.73,
+        231.2
+      ],
+      "timepoint": "02:52:33"
+    }
+  ],
+  "Rektum_3_clip_1735_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        447.96000000000004,
+        379.685,
+        430.6,
+        320.63
+      ],
+      "timepoint": "02:24:37"
+    }
+  ],
+  "Sigma_2_clip_1238_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        493.495,
+        123.035,
+        602.11,
+        226.41
+      ],
+      "timepoint": "01:43:11"
+    }
+  ],
+  "Rektum_5_clip_0912_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        634.4,
+        388.4,
+        393.2,
+        298.2
+      ],
+      "timepoint": "01:16:00"
+    }
+  ],
+  "Rektum_1_clip_2848_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        486.575,
+        248.135,
+        617.93,
+        496.27
+      ],
+      "timepoint": "03:57:23"
+    }
+  ],
+  "Sigma_4_clip_1753_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        278.48,
+        270.35,
+        173.96,
+        115.68
+      ],
+      "timepoint": "02:26:05"
+    }
+  ],
+  "Prokto_3_clip_0613_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        420.4,
+        268.6,
+        703.0,
+        537.2
+      ],
+      "timepoint": "00:51:07"
+    }
+  ],
+  "Sigma_5_clip_1208_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        310.41999999999996,
+        104.65,
+        118.06,
+        95.44
+      ],
+      "timepoint": "01:40:44"
+    }
+  ],
+  "Sigma_8_clip_1687_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        571.81,
+        193.345,
+        314.62,
+        63.29
+      ],
+      "timepoint": "02:20:39"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 2,
+      "bbox": [
+        460.025,
+        126.125,
+        559.65,
+        92.55
+      ],
+      "timepoint": "02:20:39"
+    }
+  ],
+  "Rektum_9_clip_2284_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        579.5999999999999,
+        400.03,
+        258.4,
+        236.66
+      ],
+      "timepoint": "03:10:24"
+    }
+  ],
+  "Rektum_7_clip_2171_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        308.0,
+        238.855,
+        382.0,
+        259.71
+      ],
+      "timepoint": "03:00:59"
+    }
+  ],
+  "Prokto_8_clip_1834_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        417.435,
+        206.9,
+        497.07,
+        189.8
+      ],
+      "timepoint": "02:32:53"
+    }
+  ],
+  "Rektum_3_clip_1710_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        432.32,
+        377.17999999999995,
+        262.14,
+        134.44
+      ],
+      "timepoint": "02:22:30"
+    }
+  ],
+  "Prokto_10_clip_3429_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        601.86,
+        130.37,
+        171.58,
+        198.78
+      ],
+      "timepoint": "04:45:49"
+    }
+  ],
+  "Sigma_9_clip_3140_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        263.445,
+        108.815,
+        180.65,
+        69.73
+      ],
+      "timepoint": "04:21:42"
+    }
+  ],
+  "Rektum_1_clip_3212_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        234.76999999999998,
+        118.67999999999999,
+        132.28,
+        186.64
+      ],
+      "timepoint": "04:27:40"
+    }
+  ],
+  "Rektum_2_clip_2614_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        403.885,
+        312.935,
+        207.01,
+        450.73
+      ],
+      "timepoint": "03:37:50"
+    }
+  ],
+  "Rektum_4_clip_0240_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        530.59,
+        287.95,
+        44.2,
+        87.94
+      ],
+      "timepoint": "00:20:04"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        513.665,
+        271.01,
+        27.27,
+        61.58
+      ],
+      "timepoint": "00:20:04"
+    }
+  ],
+  "Rektum_2_clip_2683_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        565.7,
+        433.625,
+        365.6,
+        206.45
+      ],
+      "timepoint": "03:43:37"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        356.2,
+        154.89,
+        363.0,
+        123.82
+      ],
+      "timepoint": "03:43:37"
+    }
+  ],
+  "Sigma_9_clip_0511_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        377.35,
+        358.325,
+        520.9,
+        358.15
+      ],
+      "timepoint": "00:42:35"
+    }
+  ],
+  "Rektum_3_clip_1713_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        616.225,
+        310.765,
+        247.95,
+        161.33
+      ],
+      "timepoint": "02:22:48"
+    }
+  ],
+  "Rektum_1_clip_3046_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        323.9,
+        219.0,
+        166.98,
+        100.44
+      ],
+      "timepoint": "04:13:54"
+    }
+  ],
+  "Rektum_3_clip_1963_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        407.95,
+        271.8,
+        562.5,
+        227.0
+      ],
+      "timepoint": "02:43:36"
+    }
+  ],
+  "Rektum_5_clip_0730_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        495.8,
+        440.1,
+        196.6,
+        193.8
+      ],
+      "timepoint": "01:00:53"
+    }
+  ],
+  "Prokto_8_clip_1877_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        530.89,
+        327.525,
+        450.62,
+        420.21
+      ],
+      "timepoint": "02:36:25"
+    }
+  ],
+  "Prokto_5_clip_2346_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        544.5,
+        334.745,
+        340.6,
+        404.49
+      ],
+      "timepoint": "03:15:33"
+    }
+  ],
+  "Rektum_3_clip_1729_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        510.05,
+        410.1,
+        242.86,
+        202.0
+      ],
+      "timepoint": "02:24:09"
+    }
+  ],
+  "Rektum_1_clip_3367_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        431.1,
+        303.93,
+        50.22,
+        31.02
+      ],
+      "timepoint": "04:40:38"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        113.16,
+        505.41499999999996,
+        130.72,
+        69.17
+      ],
+      "timepoint": "04:40:38"
+    }
+  ],
+  "Rektum_5_clip_2289_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        181.79,
+        218.6,
+        139.44,
+        36.4
+      ],
+      "timepoint": "03:10:49"
+    }
+  ],
+  "Rektum_8_clip_0375_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        278.105,
+        455.51,
+        50.11,
+        25.22
+      ],
+      "timepoint": "00:31:17"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        286.35,
+        408.7,
+        50.1,
+        49.8
+      ],
+      "timepoint": "00:31:17"
+    }
+  ],
+  "Rektum_1_clip_2810_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        332.12,
+        368.95,
+        627.76,
+        197.5
+      ],
+      "timepoint": "03:54:10"
+    }
+  ],
+  "Rektum_7_clip_2175_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        311.235,
+        139.755,
+        312.05,
+        279.51
+      ],
+      "timepoint": "03:01:15"
+    }
+  ],
+  "Rektum_7_clip_2153_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        635.05,
+        269.55,
+        446.9,
+        230.3
+      ],
+      "timepoint": "02:59:27"
+    }
+  ],
+  "Rektum_7_clip_2063_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        493.26,
+        200.065,
+        278.1,
+        142.67
+      ],
+      "timepoint": "02:51:59"
+    }
+  ],
+  "Rektum_9_clip_2841_1.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        295.08000000000004,
+        157.75,
+        373.36,
+        158.9
+      ],
+      "timepoint": "03:56:46"
+    }
+  ],
+  "Sigma_8_clip_1455_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        491.365,
+        297.425,
+        122.59,
+        106.35
+      ],
+      "timepoint": "02:01:16"
+    }
+  ],
+  "Sigma_3_clip_1343_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        579.645,
+        203.67499999999998,
+        47.71,
+        26.95
+      ],
+      "timepoint": "01:51:59"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        545.88,
+        312.175,
+        42.96,
+        26.75
+      ],
+      "timepoint": "01:51:59"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        555.5500000000001,
+        284.51000000000005,
+        23.9,
+        10.82
+      ],
+      "timepoint": "01:51:59"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        565.135,
+        249.93,
+        48.33,
+        43.7
+      ],
+      "timepoint": "01:51:59"
+    }
+  ],
+  "Rektum_1_clip_0664_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        269.165,
+        453.62,
+        107.65,
+        151.08
+      ],
+      "timepoint": "00:55:22"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        753.6850000000001,
+        449.89,
+        243.17,
+        180.22
+      ],
+      "timepoint": "00:55:22"
+    }
+  ],
+  "Sigma_9_clip_3086_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        325.34000000000003,
+        91.535,
+        45.08,
+        106.41
+      ],
+      "timepoint": "04:17:10"
+    }
+  ],
+  "Rektum_5_clip_1314_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        329.85,
+        69.45,
+        152.9,
+        138.9
+      ],
+      "timepoint": "01:49:30"
+    }
+  ],
+  "Prokto_3_clip_1889_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        772.48,
+        425.645,
+        375.04,
+        59.49
+      ],
+      "timepoint": "02:37:26"
+    }
+  ],
+  "Rektum_5_clip_2194_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        283.95,
+        276.065,
+        103.9,
+        38.47
+      ],
+      "timepoint": "03:02:54"
+    }
+  ],
+  "Rektum_2_clip_1392_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        602.35,
+        358.55,
+        193.9,
+        180.1
+      ],
+      "timepoint": "01:56:03"
+    }
+  ],
+  "Sigma_8_clip_1585_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        529.765,
+        339.89000000000004,
+        155.09,
+        99.7
+      ],
+      "timepoint": "02:12:07"
+    }
+  ],
+  "Prokto_9_clip_2499_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        360.52,
+        299.52,
+        328.24,
+        162.14
+      ],
+      "timepoint": "03:28:18"
+    }
+  ],
+  "Rektum_7_clip_2999_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        451.365,
+        225.48,
+        367.87,
+        263.7
+      ],
+      "timepoint": "04:09:55"
+    }
+  ],
+  "Rektum_4_clip_0451_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        508.93,
+        366.495,
+        35.36,
+        94.67
+      ],
+      "timepoint": "00:37:35"
+    }
+  ],
+  "Sigma_9_clip_0462_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        448.21500000000003,
+        406.3,
+        665.37,
+        261.6
+      ],
+      "timepoint": "00:38:33"
+    }
+  ],
+  "Sigma_5_clip_0503_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        184.37,
+        257.93,
+        252.34,
+        384.86
+      ],
+      "timepoint": "00:41:55"
+    }
+  ],
+  "Prokto_3_clip_0432_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        427.815,
+        127.35,
+        742.15,
+        254.7
+      ],
+      "timepoint": "00:36:04"
+    }
+  ],
+  "Rektum_1_clip_1214_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        675.95,
+        327.33,
+        253.9,
+        53.66
+      ],
+      "timepoint": "01:41:13"
+    }
+  ],
+  "Rektum_5_clip_0771_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        308.55,
+        411.9,
+        487.1,
+        250.2
+      ],
+      "timepoint": "01:04:18"
+    }
+  ],
+  "Sigma_6_clip_2544_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        582.615,
+        217.115,
+        322.03,
+        434.23
+      ],
+      "timepoint": "03:32:02"
+    }
+  ],
+  "Rektum_9_clip_0720_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        384.5,
+        371.03,
+        190.4,
+        157.66
+      ],
+      "timepoint": "01:00:04"
+    }
+  ],
+  "Sigma_7_clip_1258_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        242.6,
+        410.15,
+        229.2,
+        204.5
+      ],
+      "timepoint": "01:44:53"
+    }
+  ],
+  "Prokto_4_clip_1781_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        503.38500000000005,
+        252.63,
+        101.83,
+        505.26
+      ],
+      "timepoint": "02:28:28"
+    }
+  ],
+  "Sigma_5_clip_0575_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        321.90999999999997,
+        192.88500000000002,
+        478.62,
+        381.73
+      ],
+      "timepoint": "00:47:59"
+    }
+  ],
+  "Prokto_8_clip_1181_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        433.17,
+        454.2,
+        20.26,
+        14.18
+      ],
+      "timepoint": "01:38:26"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        441.3,
+        426.17,
+        21.6,
+        35.74
+      ],
+      "timepoint": "01:38:26"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        469.645,
+        253.185,
+        23.11,
+        38.89
+      ],
+      "timepoint": "01:38:26"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        415.51,
+        495.33000000000004,
+        24.38,
+        26.94
+      ],
+      "timepoint": "01:38:26"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        494.06,
+        335.605,
+        26.34,
+        28.73
+      ],
+      "timepoint": "01:38:26"
+    },
+    {
+      "class": "Clip",
+      "instance": 6,
+      "bbox": [
+        474.96,
+        205.35000000000002,
+        36.02,
+        37.28
+      ],
+      "timepoint": "01:38:26"
+    }
+  ],
+  "Rektum_4_clip_0214_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        233.615,
+        429.3,
+        28.37,
+        118.6
+      ],
+      "timepoint": "00:17:50"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        211.20000000000002,
+        426.03,
+        32.92,
+        112.18
+      ],
+      "timepoint": "00:17:50"
+    }
+  ],
+  "Rektum_1_clip_3173_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        351.995,
+        73.5,
+        51.79,
+        147.0
+      ],
+      "timepoint": "04:24:25"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        180.99,
+        392.595,
+        155.78,
+        289.01
+      ],
+      "timepoint": "04:24:25"
+    }
+  ],
+  "Prokto_3_clip_0428_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        468.24,
+        246.75,
+        883.98,
+        493.5
+      ],
+      "timepoint": "00:35:44"
+    }
+  ],
+  "Rektum_1_clip_2952_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        370.8,
+        234.135,
+        101.26,
+        172.07
+      ],
+      "timepoint": "04:06:03"
+    }
+  ],
+  "Sigma_4_clip_0821_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        405.73,
+        208.065,
+        15.74,
+        16.93
+      ],
+      "timepoint": "01:08:29"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        397.045,
+        133.285,
+        80.89,
+        63.49
+      ],
+      "timepoint": "01:08:29"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        422.905,
+        97.04499999999999,
+        25.39,
+        13.89
+      ],
+      "timepoint": "01:08:29"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        412.6,
+        211.5,
+        12.76,
+        19.02
+      ],
+      "timepoint": "01:08:29"
+    }
+  ],
+  "Rektum_1_clip_0695_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        139.765,
+        365.30499999999995,
+        48.75,
+        124.81
+      ],
+      "timepoint": "00:57:56"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        660.195,
+        384.405,
+        350.41,
+        305.09
+      ],
+      "timepoint": "00:57:56"
+    }
+  ],
+  "Prokto_5_clip_2343_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        392.615,
+        414.55999999999995,
+        247.05,
+        227.82
+      ],
+      "timepoint": "03:15:19"
+    }
+  ],
+  "Prokto_9_clip_0058_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        396.54999999999995,
+        206.66,
+        104.68,
+        137.88
+      ],
+      "timepoint": "00:04:54"
+    }
+  ],
+  "Rektum_4_clip_1759_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        258.89,
+        295.53499999999997,
+        240.86,
+        77.05
+      ],
+      "timepoint": "02:26:37"
+    }
+  ],
+  "Sigma_9_clip_1331_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        484.2,
+        395.15,
+        279.0,
+        283.9
+      ],
+      "timepoint": "01:50:59"
+    }
+  ],
+  "Rektum_4_clip_0480_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        340.26,
+        437.8,
+        41.48,
+        111.4
+      ],
+      "timepoint": "00:40:03"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        548.7,
+        322.75,
+        36.0,
+        42.9
+      ],
+      "timepoint": "00:40:03"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        368.735,
+        443.065,
+        41.53,
+        114.13
+      ],
+      "timepoint": "00:40:03"
+    }
+  ],
+  "Rektum_1_clip_2997_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        415.79499999999996,
+        423.81499999999994,
+        65.03,
+        100.57
+      ],
+      "timepoint": "04:09:48"
+    }
+  ],
+  "Prokto_6_clip_1612_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        284.84,
+        433.65,
+        366.9,
+        212.7
+      ],
+      "timepoint": "02:14:24"
+    }
+  ],
+  "Prokto_3_clip_0428_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        479.60499999999996,
+        144.95,
+        813.79,
+        173.1
+      ],
+      "timepoint": "00:35:43"
+    }
+  ],
+  "Rektum_8_clip_1771_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        725.85,
+        397.01,
+        54.3,
+        114.18
+      ],
+      "timepoint": "02:27:37"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        760.77,
+        406.84,
+        50.58,
+        95.9
+      ],
+      "timepoint": "02:27:37"
+    }
+  ],
+  "Rektum_7_clip_2174_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        253.75,
+        235.10000000000002,
+        268.9,
+        317.8
+      ],
+      "timepoint": "03:01:14"
+    }
+  ],
+  "Rektum_2_clip_2608_4.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        544.86,
+        321.865,
+        179.06,
+        434.03
+      ],
+      "timepoint": "03:37:24"
+    }
+  ],
+  "Prokto_9_clip_2352_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        486.265,
+        291.56,
+        565.61,
+        238.98
+      ],
+      "timepoint": "03:16:00"
+    }
+  ],
+  "Prokto_7_clip_0479_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        412.03,
+        348.01,
+        54.38,
+        74.82
+      ],
+      "timepoint": "00:39:59"
+    }
+  ],
+  "Sigma_9_clip_3155_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        478.51,
+        193.44,
+        111.24,
+        156.22
+      ],
+      "timepoint": "04:22:57"
+    }
+  ],
+  "Prokto_4_clip_1782_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        468.8,
+        263.6,
+        112.4,
+        505.6
+      ],
+      "timepoint": "02:28:33"
+    }
+  ],
+  "Rektum_9_clip_2748_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        671.3100000000001,
+        336.13,
+        256.96,
+        209.76
+      ],
+      "timepoint": "03:49:03"
+    }
+  ],
+  "Rektum_4_clip_0392_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        227.0,
+        130.65,
+        170.4,
+        220.1
+      ],
+      "timepoint": "00:32:44"
+    }
+  ],
+  "Rektum_7_clip_2069_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        586.435,
+        276.975,
+        275.85,
+        334.17
+      ],
+      "timepoint": "02:52:25"
+    }
+  ],
+  "Prokto_7_clip_1938_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        483.615,
+        482.095,
+        135.45,
+        115.81
+      ],
+      "timepoint": "02:41:30"
+    }
+  ],
+  "Rektum_7_clip_1409_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        600.5,
+        96.2,
+        355.4,
+        192.4
+      ],
+      "timepoint": "01:57:27"
+    }
+  ],
+  "Rektum_2_clip_2738_1.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        526.725,
+        286.15,
+        303.09,
+        299.1
+      ],
+      "timepoint": "03:48:11"
+    }
+  ],
+  "Sigma_5_clip_0491_0.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        535.02,
+        316.045,
+        667.36,
+        447.91
+      ],
+      "timepoint": "00:40:55"
+    }
+  ],
+  "Rektum_2_clip_2732_3.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        405.01,
+        341.635,
+        464.68,
+        362.85
+      ],
+      "timepoint": "03:47:43"
+    }
+  ],
+  "Sigma_1_clip_0076_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        416.225,
+        168.445,
+        64.95,
+        113.97
+      ],
+      "timepoint": "00:06:21"
+    }
+  ],
+  "Sigma_9_clip_0935_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        586.0,
+        468.945,
+        255.4,
+        135.71
+      ],
+      "timepoint": "01:17:56"
+    }
+  ],
+  "Prokto_8_clip_1858_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        368.405,
+        415.79,
+        178.01,
+        230.36
+      ],
+      "timepoint": "02:34:50"
+    }
+  ],
+  "Rektum_3_clip_1743_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        543.09,
+        269.905,
+        467.92,
+        539.81
+      ],
+      "timepoint": "02:25:17"
+    }
+  ],
+  "Rektum_9_clip_0657_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        405.40000000000003,
+        309.9,
+        133.6,
+        156.4
+      ],
+      "timepoint": "00:54:46"
+    }
+  ],
+  "Rektum_9_clip_2832_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        210.07999999999998,
+        112.91499999999999,
+        150.82,
+        111.81
+      ],
+      "timepoint": "03:56:03"
+    }
+  ],
+  "Rektum_7_clip_2996_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        447.15000000000003,
+        340.8,
+        534.82,
+        152.6
+      ],
+      "timepoint": "04:09:43"
+    }
+  ],
+  "Sigma_3_clip_1172_2.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        449.25,
+        496.15000000000003,
+        214.7,
+        82.1
+      ],
+      "timepoint": "01:37:42"
+    }
+  ],
+  "Rektum_9_clip_0264_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        329.355,
+        173.26500000000001,
+        29.69,
+        59.93
+      ],
+      "timepoint": "00:22:03"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        360.64,
+        191.23499999999999,
+        33.4,
+        90.77
+      ],
+      "timepoint": "00:22:03"
+    }
+  ],
+  "Rektum_6_clip_3174_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        326.235,
+        335.42,
+        412.59,
+        122.22
+      ],
+      "timepoint": "04:24:32"
+    }
+  ],
+  "Prokto_8_clip_1866_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        361.095,
+        409.875,
+        166.55,
+        114.53
+      ],
+      "timepoint": "02:35:30"
+    }
+  ],
+  "Rektum_5_clip_0888_4.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        468.3,
+        463.4,
+        428.0,
+        147.4
+      ],
+      "timepoint": "01:14:04"
+    }
+  ],
+  "Rektum_2_clip_2626_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        583.2049999999999,
+        350.27,
+        360.99,
+        178.26
+      ],
+      "timepoint": "03:38:52"
+    }
+  ],
+  "Sigma_5_clip_0565_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        361.43499999999995,
+        373.0,
+        547.67,
+        331.0
+      ],
+      "timepoint": "00:47:09"
+    }
+  ],
+  "Prokto_5_clip_2340_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        360.545,
+        306.705,
+        387.41,
+        159.59
+      ],
+      "timepoint": "03:15:00"
+    }
+  ],
+  "Prokto_3_clip_1195_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        121.29,
+        157.58,
+        12.58,
+        19.92
+      ],
+      "timepoint": "01:39:35"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        87.17500000000001,
+        219.07,
+        62.95,
+        104.66
+      ],
+      "timepoint": "01:39:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        106.955,
+        456.17,
+        23.49,
+        30.86
+      ],
+      "timepoint": "01:39:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        168.88,
+        262.39,
+        33.38,
+        39.8
+      ],
+      "timepoint": "01:39:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        141.265,
+        490.685,
+        17.03,
+        17.99
+      ],
+      "timepoint": "01:39:35"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        161.98000000000002,
+        485.71,
+        22.48,
+        26.66
+      ],
+      "timepoint": "01:39:35"
+    }
+  ],
+  "Rektum_1_clip_3058_4.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        371.81500000000005,
+        225.995,
+        131.55,
+        180.89
+      ],
+      "timepoint": "04:14:54"
+    }
+  ],
+  "Rektum_9_clip_2744_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        347.86,
+        151.06,
+        243.12,
+        302.12
+      ],
+      "timepoint": "03:48:42"
+    }
+  ],
+  "Rektum_9_clip_2841_4.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        310.945,
+        181.04500000000002,
+        410.49,
+        160.51
+      ],
+      "timepoint": "03:56:49"
+    }
+  ],
+  "Prokto_9_clip_2336_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        399.58000000000004,
+        257.045,
+        426.3,
+        321.25
+      ],
+      "timepoint": "03:14:40"
+    }
+  ],
+  "Rektum_1_clip_3059_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        384.73,
+        147.445,
+        181.86,
+        70.13
+      ],
+      "timepoint": "04:14:56"
+    }
+  ],
+  "Prokto_3_clip_1911_2.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        693.85,
+        194.10000000000002,
+        79.3,
+        135.8
+      ],
+      "timepoint": "02:39:17"
+    }
+  ],
+  "Sigma_5_clip_0558_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        340.70500000000004,
+        129.075,
+        460.73,
+        258.15
+      ],
+      "timepoint": "00:46:33"
+    }
+  ],
+  "Rektum_1_clip_3114_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        163.035,
+        375.64,
+        202.39,
+        323.56
+      ],
+      "timepoint": "04:19:32"
+    }
+  ],
+  "Rektum_9_clip_0716_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        516.5,
+        449.05,
+        474.0,
+        176.5
+      ],
+      "timepoint": "00:59:40"
+    }
+  ],
+  "Rektum_3_clip_1710_3.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        425.53,
+        419.4,
+        263.16,
+        135.4
+      ],
+      "timepoint": "02:22:33"
+    }
+  ],
+  "Rektum_9_clip_2818_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        436.65,
+        77.06,
+        589.26,
+        134.46
+      ],
+      "timepoint": "03:54:52"
+    }
+  ],
+  "Sigma_6_clip_2544_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        736.2199999999999,
+        236.74,
+        102.82,
+        293.64
+      ],
+      "timepoint": "03:32:03"
+    }
+  ],
+  "Sigma_5_clip_0554_2.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        363.15500000000003,
+        111.8,
+        584.23,
+        223.6
+      ],
+      "timepoint": "00:46:12"
+    }
+  ],
+  "Rektum_9_clip_2312_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        496.25,
+        359.85,
+        330.3,
+        261.3
+      ],
+      "timepoint": "03:12:43"
+    }
+  ],
+  "Rektum_8_clip_0416_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        559.135,
+        276.0,
+        142.25,
+        48.0
+      ],
+      "timepoint": "00:34:43"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        535.36,
+        375.39,
+        123.96,
+        58.12
+      ],
+      "timepoint": "00:34:43"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        519.105,
+        400.385,
+        129.65,
+        71.53
+      ],
+      "timepoint": "00:34:43"
+    }
+  ],
+  "Prokto_3_clip_2194_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        778.15,
+        268.5,
+        238.3,
+        537.0
+      ],
+      "timepoint": "03:02:52"
+    }
+  ],
+  "Rektum_4_clip_0464_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        345.09,
+        366.575,
+        39.62,
+        72.15
+      ],
+      "timepoint": "00:38:43"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        325.425,
+        372.75,
+        63.95,
+        99.1
+      ],
+      "timepoint": "00:38:43"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        380.495,
+        338.96500000000003,
+        50.39,
+        62.85
+      ],
+      "timepoint": "00:38:43"
+    }
+  ],
+  "Rektum_7_clip_0879_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        498.65,
+        257.29499999999996,
+        40.8,
+        46.25
+      ],
+      "timepoint": "01:13:18"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        519.2950000000001,
+        318.77000000000004,
+        18.01,
+        21.22
+      ],
+      "timepoint": "01:13:18"
+    }
+  ],
+  "Sigma_5_clip_1275_0.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        444.06500000000005,
+        198.41,
+        91.81,
+        38.06
+      ],
+      "timepoint": "01:46:15"
+    }
+  ],
+  "Rektum_3_clip_1714_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        344.895,
+        338.55,
+        292.21,
+        346.1
+      ],
+      "timepoint": "02:22:52"
+    },
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        597.85,
+        293.95,
+        353.96,
+        214.9
+      ],
+      "timepoint": "02:22:52"
+    }
+  ],
+  "Rektum_1_clip_2843_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        208.91,
+        297.925,
+        382.78,
+        93.65
+      ],
+      "timepoint": "03:56:57"
+    }
+  ],
+  "Prokto_7_clip_1734_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        401.46000000000004,
+        329.545,
+        194.8,
+        316.11
+      ],
+      "timepoint": "02:24:30"
+    }
+  ],
+  "Sigma_9_clip_0572_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        736.7149999999999,
+        201.3,
+        138.37,
+        402.6
+      ],
+      "timepoint": "00:47:41"
+    }
+  ],
+  "Prokto_3_clip_0431_4.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        605.09,
+        166.15,
+        708.02,
+        332.3
+      ],
+      "timepoint": "00:35:59"
+    }
+  ],
+  "Sigma_8_clip_1696_3.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        415.95500000000004,
+        317.225,
+        427.85,
+        442.55
+      ],
+      "timepoint": "02:21:23"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 2,
+      "bbox": [
+        503.985,
+        90.695,
+        449.57,
+        130.39
+      ],
+      "timepoint": "02:21:23"
+    }
+  ],
+  "Sigma_3_clip_0310_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        111.1,
+        369.1,
+        222.2,
+        336.6
+      ],
+      "timepoint": "00:25:53"
+    }
+  ],
+  "Prokto_9_clip_1920_1.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        473.95,
+        158.25,
+        192.1,
+        159.9
+      ],
+      "timepoint": "02:40:01"
+    }
+  ],
+  "Sigma_5_clip_0556_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        397.065,
+        138.5,
+        676.33,
+        277.0
+      ],
+      "timepoint": "00:46:21"
+    }
+  ],
+  "Prokto_3_clip_1898_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        707.6,
+        222.92,
+        314.0,
+        445.84
+      ],
+      "timepoint": "02:38:12"
+    }
+  ],
+  "Rektum_2_clip_0735_0.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        460.15,
+        410.79999999999995,
+        457.5,
+        253.2
+      ],
+      "timepoint": "01:01:15"
+    }
+  ],
+  "Sigma_3_clip_0940_3.jpg": [
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        261.25,
+        110.35,
+        324.3,
+        220.7
+      ],
+      "timepoint": "01:18:23"
+    }
+  ],
+  "Rektum_4_clip_0191_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        399.185,
+        178.865,
+        132.71,
+        140.41
+      ],
+      "timepoint": "00:15:58"
+    }
+  ],
+  "Prokto_6_clip_1614_2.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        570.01,
+        441.235,
+        225.3,
+        197.53
+      ],
+      "timepoint": "02:14:32"
+    },
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        176.015,
+        413.25,
+        271.37,
+        249.1
+      ],
+      "timepoint": "02:14:32"
+    }
+  ],
+  "Prokto_6_clip_1495_3.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        215.01999999999998,
+        193.64,
+        179.44,
+        134.12
+      ],
+      "timepoint": "02:04:38"
+    },
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        347.06500000000005,
+        444.21500000000003,
+        124.81,
+        191.57
+      ],
+      "timepoint": "02:04:38"
+    }
+  ],
+  "Prokto_5_clip_0893_2.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        604.0749999999999,
+        280.91499999999996,
+        14.03,
+        26.91
+      ],
+      "timepoint": "01:14:27"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        297.77,
+        416.03499999999997,
+        271.86,
+        242.53
+      ],
+      "timepoint": "01:14:27"
+    }
+  ],
+  "Rektum_2_clip_2704_2.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        404.515,
+        437.60499999999996,
+        115.67,
+        204.79
+      ],
+      "timepoint": "03:45:22"
+    }
+  ],
+  "Prokto_2_clip_2780_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        807.35,
+        472.55,
+        219.5,
+        132.6
+      ],
+      "timepoint": "03:51:40"
+    }
+  ],
+  "Rektum_4_clip_0149_0.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        374.59999999999997,
+        22.945,
+        56.78,
+        45.89
+      ],
+      "timepoint": "00:12:25"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        207.1,
+        420.355,
+        11.4,
+        85.31
+      ],
+      "timepoint": "00:12:25"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        386.985,
+        27.470000000000002,
+        62.21,
+        51.34
+      ],
+      "timepoint": "00:12:25"
+    }
+  ],
+  "Rektum_7_clip_2057_1.jpg": [
+    {
+      "class": "SpecimenBag",
+      "instance": 1,
+      "bbox": [
+        349.59499999999997,
+        178.60500000000002,
+        158.29,
+        165.11
+      ],
+      "timepoint": "02:51:26"
+    }
+  ],
+  "Rektum_6_clip_0375_1.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        338.95500000000004,
+        350.815,
+        16.71,
+        49.97
+      ],
+      "timepoint": "00:31:16"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        347.235,
+        349.86,
+        9.97,
+        40.14
+      ],
+      "timepoint": "00:31:16"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        429.81,
+        298.555,
+        13.38,
+        29.49
+      ],
+      "timepoint": "00:31:16"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        422.78,
+        295.945,
+        16.56,
+        41.05
+      ],
+      "timepoint": "00:31:16"
+    }
+  ],
+  "Prokto_7_clip_1702_0.jpg": [
+    {
+      "class": "SiliconLoop",
+      "instance": 1,
+      "bbox": [
+        392.05,
+        490.70000000000005,
+        47.9,
+        93.2
+      ],
+      "timepoint": "02:21:50"
+    },
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        364.21999999999997,
+        428.675,
+        55.04,
+        39.99
+      ],
+      "timepoint": "02:21:50"
+    }
+  ],
+  "Prokto_5_clip_0696_4.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        589.91,
+        346.85499999999996,
+        38.8,
+        13.67
+      ],
+      "timepoint": "00:58:04"
+    },
+    {
+      "class": "Sponge",
+      "instance": 1,
+      "bbox": [
+        662.575,
+        281.33,
+        217.25,
+        212.38
+      ],
+      "timepoint": "00:58:04"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        582.09,
+        40.935,
+        59.26,
+        71.17
+      ],
+      "timepoint": "00:58:04"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        555.3100000000001,
+        310.23,
+        42.98,
+        23.84
+      ],
+      "timepoint": "00:58:04"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        583.175,
+        324.705,
+        67.37,
+        28.77
+      ],
+      "timepoint": "00:58:04"
+    }
+  ],
+  "Rektum_5_clip_2193_1.jpg": [
+    {
+      "class": "Needle",
+      "instance": 1,
+      "bbox": [
+        455.915,
+        287.825,
+        57.61,
+        97.49
+      ],
+      "timepoint": "03:02:46"
+    }
+  ],
+  "Rektum_2_clip_1319_3.jpg": [
+    {
+      "class": "Clip",
+      "instance": 1,
+      "bbox": [
+        704.485,
+        310.36999999999995,
+        12.15,
+        23.68
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 2,
+      "bbox": [
+        722.35,
+        268.73,
+        29.2,
+        9.02
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 3,
+      "bbox": [
+        724.55,
+        245.63,
+        25.1,
+        14.94
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 4,
+      "bbox": [
+        715.255,
+        233.05,
+        18.89,
+        8.1
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 5,
+      "bbox": [
+        755.12,
+        229.73000000000002,
+        22.68,
+        14.74
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 6,
+      "bbox": [
+        719.385,
+        217.45000000000002,
+        30.03,
+        35.3
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 7,
+      "bbox": [
+        303.595,
+        284.17,
+        26.59,
+        44.26
+      ],
+      "timepoint": "01:49:58"
+    },
+    {
+      "class": "Clip",
+      "instance": 8,
+      "bbox": [
+        753.325,
+        265.77000000000004,
+        26.45,
+        14.46
+      ],
+      "timepoint": "01:49:58"
+    }
+  ],
+  "Sigma_1_clip_1157_0.jpg": [
+    {
+      "class": "ExternalDrain",
+      "instance": 1,
+      "bbox": [
+        348.655,
+        317.23,
+        374.71,
+        445.54
+      ],
+      "timepoint": "01:36:25"
+    }
+  ]
+}

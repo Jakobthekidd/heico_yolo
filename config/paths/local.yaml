@@ -1,0 +1,4 @@
+copy_data_to_repo: True
+data_path: /home/s124z/Code/YOLO/heico_dataset
+resource_path: /home/s124z/Code/YOLO/resources
+output_dir: /home/s124z/Code/YOLO/outputs

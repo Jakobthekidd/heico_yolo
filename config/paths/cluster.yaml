@@ -1,0 +1,16 @@
+#config/paths/cluster.yaml
+copy_data_to_repo: False
+data_path: /dkfz/cluster/gpu/data/OE0176/s124z/HEICO_dataset 
+resource_path: /dkfz/cluster/gpu/data/OE0176/s124z/CODE/YOLO/resources
+output_dir: /dkfz/cluster/gpu/data/OE0176/s124z/outputs_heico
+
+
+
+
+
+
+
+
+
+
+

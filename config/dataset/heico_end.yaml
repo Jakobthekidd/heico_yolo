@@ -1,0 +1,7 @@
+path: /dkfz/cluster/gpu/data/OE0176/s124z/HEICO_dataset
+
+train: train/images
+val: train/images
+test: test/images
+nc: 6
+names: ['Clip', 'SiliconLoop', 'Needle', 'SpecimenBag', 'Sponge', 'ExternalDrain']
