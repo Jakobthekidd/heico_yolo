@@ -1,0 +1,23 @@
+defaults:
+- paths: local_j
+- _self_
+
+exp: Cholec_YOLO
+wandb_project: YOLO_test
+
+seed: 42
+
+model_name: "yolov8s.pt"
+
+trn_fold: [0,1,2,3,4]
+
+epochs: 50
+imgsz: 1024
+batch: 8
+
+config_yolo: "/home/j566n/SAVEOR_Yolo/heico_yolo/config/yolo_config.yaml"
+
+data:
+  csv_path: "/home/j566n/SAVEOR_Yolo/heico_yolo/utils/heico_2dbb_video_with_folds.csv"
+  image_root: "yolo_dataset/images"
+  yolo_config_template: "configs/config_yolo.yaml"

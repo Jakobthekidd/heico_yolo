@@ -1,0 +1,101 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "YOLO Segmentation",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "main.py",
+            "cwd": "${workspaceFolder}/seg/YOLO",
+            "console": "integratedTerminal",
+            "args": ["exp=yolo_tool_optimized", "training.epochs=5"], //"model.encoder=mit_b4", "training.epochs=1"]
+            "python": "/home/j566n/miniconda3/envs/yolo-env/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        },
+        {
+            "name": "SegPipeline",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "seg/main.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["exp=debug", "training.epochs=30", "model.encoder=mit_b2", "wanlog=false", "add_endoscapes_to_cvs=false", "inference.neighbours=false"], //"model.encoder=mit_b4", "training.epochs=1"]
+            "python": "/home/j566n/miniconda3/envs/cvs_clean/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        },
+        {
+            "name": "Docker challengeC cv inference",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "submission_sds-hd/subchallengeC_docker/cv_inference.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["sys=local_j", "cv_eval.enabled=True","cv_eval.visualize_preds=False", "eval=True", "folds=[0,1,2,3,4]", "yolo_cv=True", "batch_size=4", "ensemble.temperature=1.0", "yolo_ensemble.use_cv=true"], // ,1,2,3,4]"],
+            "python": "/home/j566n/miniconda3/envs/docker/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        },
+
+        {
+            "name": "Docker Inference",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "submission_sds-hd/subchallengeC_docker/inference_j.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["sys=local_j", "cv_eval.enabled=False","cv_eval.visualize_preds=False", "eval=True", "folds=[0,1,2,3,4]", "yolo_cv=False", "batch_size=4", "yolo_ensemble.use_cv=false"], // ,1,2,3,4]"],
+            "python": "/home/j566n/miniconda3/envs/docker/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        },
+
+        {
+            "name": "Final Docker Inference",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "submission_sds-hd/subchallengeC_docker/inference_final.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["sys=local_j", "eval=True", "batch_size=4"], // ,1,2,3,4]"],
+            "python": "/home/j566n/miniconda3/envs/docker/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        },
+
+        {
+            "name": "Docker Subchallenge A",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "submission_sds-hd/subchallengeA_docker/main_final.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["sys=local_j", "debug=True"], // ,1,2,3,4]"],
+            "python": "/home/j566n/miniconda3/envs/docker/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        },
+        
+        {
+            "name": "clsExp",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "cls/main.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["exp=debugging_endo", "seg=base_config", "params=eva_base", "auxseg_head=simple", "wanlog=false"], //"model.encoder=mit_b4", "training.epochs=1"]
+            "python": "/home/j566n/miniconda3/envs/rare_env/bin/python"
+            // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+        }
+    ]
+}
+
+// {
+//     "name": "JSON Debugger",
+//     "type": "debugpy",
+//     "request": "launch",
+//     "program": "seg/main.py",
+//     "cwd": "${workspaceFolder}",
+//     "console": "integratedTerminal",
+//     "args": ["exp=graph_appraoch", "training.epochs=1", "wanlog=true", "model.backbone=graph"], //"model.encoder=mit_b4", "training.epochs=1"]
+//     "python": "/home/j566n/miniconda3/envs/cvs/bin/python"
+//     // "args": ["exp=debug", "aux_seg=true", "seg=runtime_masks", "mask_dir=Unet_masks", "seg.class_weights=[1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0]"],
+// }

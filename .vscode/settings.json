@@ -1,0 +1,12 @@
+{
+    "command-runner.commands": {
+        "SSH to bsub": "ssh bsub02.lsf.dkfz.de",
+        "SSH to worker node": "ssh j566n@odcf-worker02.dkfz-heidelberg.de"
+    },
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#00bd03ce",
+        "titleBar.inactiveBackground": "#00bd03ce",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveForeground": "#000000"
+    }
+}

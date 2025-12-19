@@ -1,0 +1,7 @@
+path: /placeholder/path/to/yolo_dataset
+train: /placeholder/path/to/yolo_train.txt
+val: /placeholder/path/to/yolo_val.txt
+test: /placeholder/path/to/yolo_test.txt
+
+nc: 6
+names: ['Clip', 'SiliconLoop', 'Needle', 'SpecimenBag', 'Sponge', 'ExternalDrain']
